@@ -30,9 +30,11 @@ from jax import numpy as jnp
 from jax import test_util as jtu
 import pyscf
 
+
 OPTIMIZERS = ['kfac', 'adam', 'lamb']
 MOL_STRINGS = ['H 0 0 -1; H 0 0 1', 'H 0 0 0; Cl 0 0 1.1',
                'O 0 0 0; H  0 1 0; H 0 0 1']
+USE_HMC= [True, False]
 
 FLAGS = flags.FLAGS
 # Default flags are sufficient so mark FLAGS as parsed so we can run the tests
@@ -65,9 +67,10 @@ class QmcTest(jtu.JaxTestCase):
     pyscf.lib.param.TMPDIR = None
 
   @parameterized.parameters(
-      (system, optimizer)
-      for system, optimizer in itertools.product(['Li', 'LiH'], OPTIMIZERS))
-  def test_training_step(self, system, optimizer):
+      (system, optimizer, use_hmc)
+      for system, optimizer, use_hmc in itertools.product(
+        ['Li', 'LiH'], OPTIMIZERS, USE_HMC))
+  def test_training_step(self, system, optimizer, use_hmc):
     if system == 'Li':
       cfg = atom.get_config()
       cfg.system.atom = system
@@ -82,6 +85,7 @@ class QmcTest(jtu.JaxTestCase):
     cfg.optim.optimizer = optimizer
     cfg.optim.iterations = 3
     cfg.debug.check_nan = True
+    cfg.mcmc.use_hmc = use_hmc
     cfg.log.save_path = self.create_tempdir().full_path
     cfg = base_config.resolve(cfg)
     # Calculation is too small to test the results for accuracy. Test just to
@@ -99,9 +103,10 @@ class QmcPyscfMolTest(jtu.JaxTestCase):
     pyscf.lib.param.TMPDIR = None
 
   @parameterized.parameters(
-      (mol_string, optimizer)
-      for mol_string, optimizer in itertools.product(MOL_STRINGS, OPTIMIZERS))
-  def test_training_step_pyscf(self, mol_string, optimizer):
+      (mol_string, optimizer, use_hmc)
+      for mol_string, optimizer, use_hmc in itertools.product(
+        MOL_STRINGS, OPTIMIZERS, USE_HMC))
+  def test_training_step_pyscf(self, mol_string, optimizer, use_hmc):
     mol = pyscf.gto.Mole()
     mol.build(
         atom=mol_string,
@@ -117,6 +122,7 @@ class QmcPyscfMolTest(jtu.JaxTestCase):
     cfg.optim.optimizer = optimizer
     cfg.optim.iterations = 3
     cfg.debug.check_nan = True
+    cfg.mcmc.use_hmc = use_hmc
     cfg.log.save_path = self.create_tempdir().full_path
     cfg = base_config.resolve(cfg)
     # Calculation is too small to test the results for accuracy. Test just to
