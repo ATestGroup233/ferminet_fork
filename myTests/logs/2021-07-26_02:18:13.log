@@ -1,0 +1,121 @@
+1970-02-15 16:14:26,805 - myLogging.py:38 - Starting QMC with 1 XLA devices.
+1970-02-15 16:14:40,366 - pretrain.py:260 - Pretrain iter 00000: 0.0740022
+1970-02-15 16:14:40,375 - pretrain.py:260 - Pretrain iter 00001: 0.0444296
+1970-02-15 16:14:40,386 - pretrain.py:260 - Pretrain iter 00002: 0.0274277
+1970-02-15 16:14:40,394 - pretrain.py:260 - Pretrain iter 00003: 0.0197077
+1970-02-15 16:14:40,401 - pretrain.py:260 - Pretrain iter 00004: 0.0173277
+1970-02-15 16:14:40,409 - pretrain.py:260 - Pretrain iter 00005: 0.0165658
+1970-02-15 16:14:40,416 - pretrain.py:260 - Pretrain iter 00006: 0.0158626
+1970-02-15 16:14:40,423 - pretrain.py:260 - Pretrain iter 00007: 0.0146868
+1970-02-15 16:14:40,431 - pretrain.py:260 - Pretrain iter 00008: 0.013771
+1970-02-15 16:14:40,438 - pretrain.py:260 - Pretrain iter 00009: 0.0127303
+1970-02-15 16:14:40,445 - pretrain.py:260 - Pretrain iter 00010: 0.0120961
+1970-02-15 16:14:40,452 - pretrain.py:260 - Pretrain iter 00011: 0.011731
+1970-02-15 16:14:40,459 - pretrain.py:260 - Pretrain iter 00012: 0.0114737
+1970-02-15 16:14:40,467 - pretrain.py:260 - Pretrain iter 00013: 0.0110272
+1970-02-15 16:14:40,473 - pretrain.py:260 - Pretrain iter 00014: 0.0106462
+1970-02-15 16:14:40,480 - pretrain.py:260 - Pretrain iter 00015: 0.0101416
+1970-02-15 16:14:40,487 - pretrain.py:260 - Pretrain iter 00016: 0.00954205
+1970-02-15 16:14:40,495 - pretrain.py:260 - Pretrain iter 00017: 0.00911658
+1970-02-15 16:14:40,502 - pretrain.py:260 - Pretrain iter 00018: 0.00862124
+1970-02-15 16:14:40,510 - pretrain.py:260 - Pretrain iter 00019: 0.00817705
+1970-02-15 16:14:40,518 - pretrain.py:260 - Pretrain iter 00020: 0.00800276
+1970-02-15 16:14:40,527 - pretrain.py:260 - Pretrain iter 00021: 0.00817644
+1970-02-15 16:14:40,535 - pretrain.py:260 - Pretrain iter 00022: 0.00782552
+1970-02-15 16:14:40,543 - pretrain.py:260 - Pretrain iter 00023: 0.00720449
+1970-02-15 16:14:40,551 - pretrain.py:260 - Pretrain iter 00024: 0.00702222
+1970-02-15 16:14:40,560 - pretrain.py:260 - Pretrain iter 00025: 0.00684198
+1970-02-15 16:14:40,569 - pretrain.py:260 - Pretrain iter 00026: 0.00663528
+1970-02-15 16:14:40,578 - pretrain.py:260 - Pretrain iter 00027: 0.00666969
+1970-02-15 16:14:40,587 - pretrain.py:260 - Pretrain iter 00028: 0.00661119
+1970-02-15 16:14:40,596 - pretrain.py:260 - Pretrain iter 00029: 0.00650096
+1970-02-15 16:14:40,604 - pretrain.py:260 - Pretrain iter 00030: 0.00655809
+1970-02-15 16:14:40,613 - pretrain.py:260 - Pretrain iter 00031: 0.0063913
+1970-02-15 16:14:40,622 - pretrain.py:260 - Pretrain iter 00032: 0.00648024
+1970-02-15 16:14:40,631 - pretrain.py:260 - Pretrain iter 00033: 0.00615471
+1970-02-15 16:14:40,640 - pretrain.py:260 - Pretrain iter 00034: 0.00601709
+1970-02-15 16:14:40,649 - pretrain.py:260 - Pretrain iter 00035: 0.00612779
+1970-02-15 16:14:40,659 - pretrain.py:260 - Pretrain iter 00036: 0.00611924
+1970-02-15 16:14:40,668 - pretrain.py:260 - Pretrain iter 00037: 0.00597233
+1970-02-15 16:14:40,678 - pretrain.py:260 - Pretrain iter 00038: 0.00574068
+1970-02-15 16:14:40,687 - pretrain.py:260 - Pretrain iter 00039: 0.00561897
+1970-02-15 16:14:40,697 - pretrain.py:260 - Pretrain iter 00040: 0.00548497
+1970-02-15 16:14:40,707 - pretrain.py:260 - Pretrain iter 00041: 0.00526222
+1970-02-15 16:14:40,716 - pretrain.py:260 - Pretrain iter 00042: 0.00531556
+1970-02-15 16:14:40,727 - pretrain.py:260 - Pretrain iter 00043: 0.00535936
+1970-02-15 16:14:40,736 - pretrain.py:260 - Pretrain iter 00044: 0.00522867
+1970-02-15 16:14:40,747 - pretrain.py:260 - Pretrain iter 00045: 0.00507008
+1970-02-15 16:14:40,757 - pretrain.py:260 - Pretrain iter 00046: 0.00493753
+1970-02-15 16:14:40,767 - pretrain.py:260 - Pretrain iter 00047: 0.00474829
+1970-02-15 16:14:40,778 - pretrain.py:260 - Pretrain iter 00048: 0.00441655
+1970-02-15 16:14:40,784 - pretrain.py:260 - Pretrain iter 00049: 0.00431933
+1970-02-15 16:14:40,790 - pretrain.py:260 - Pretrain iter 00050: 0.00417157
+1970-02-15 16:14:40,800 - pretrain.py:260 - Pretrain iter 00051: 0.00400424
+1970-02-15 16:14:40,811 - pretrain.py:260 - Pretrain iter 00052: 0.00400093
+1970-02-15 16:14:40,817 - pretrain.py:260 - Pretrain iter 00053: 0.0036316
+1970-02-15 16:14:40,828 - pretrain.py:260 - Pretrain iter 00054: 0.00356966
+1970-02-15 16:14:40,834 - pretrain.py:260 - Pretrain iter 00055: 0.00336985
+1970-02-15 16:14:40,841 - pretrain.py:260 - Pretrain iter 00056: 0.0032732
+1970-02-15 16:14:40,852 - pretrain.py:260 - Pretrain iter 00057: 0.00322164
+1970-02-15 16:14:40,863 - pretrain.py:260 - Pretrain iter 00058: 0.0032812
+1970-02-15 16:14:40,874 - pretrain.py:260 - Pretrain iter 00059: 0.00320099
+1970-02-15 16:14:40,880 - pretrain.py:260 - Pretrain iter 00060: 0.00301044
+1970-02-15 16:14:40,892 - pretrain.py:260 - Pretrain iter 00061: 0.00290804
+1970-02-15 16:14:40,903 - pretrain.py:260 - Pretrain iter 00062: 0.00277007
+1970-02-15 16:14:40,915 - pretrain.py:260 - Pretrain iter 00063: 0.00276244
+1970-02-15 16:14:40,927 - pretrain.py:260 - Pretrain iter 00064: 0.0026875
+1970-02-15 16:14:40,933 - pretrain.py:260 - Pretrain iter 00065: 0.00265169
+1970-02-15 16:14:40,945 - pretrain.py:260 - Pretrain iter 00066: 0.00252119
+1970-02-15 16:14:40,957 - pretrain.py:260 - Pretrain iter 00067: 0.00245292
+1970-02-15 16:14:40,969 - pretrain.py:260 - Pretrain iter 00068: 0.00238105
+1970-02-15 16:14:40,981 - pretrain.py:260 - Pretrain iter 00069: 0.00230112
+1970-02-15 16:14:40,994 - pretrain.py:260 - Pretrain iter 00070: 0.00225795
+1970-02-15 16:14:41,007 - pretrain.py:260 - Pretrain iter 00071: 0.0022265
+1970-02-15 16:14:41,019 - pretrain.py:260 - Pretrain iter 00072: 0.00223744
+1970-02-15 16:14:41,037 - pretrain.py:260 - Pretrain iter 00073: 0.00218229
+1970-02-15 16:14:41,049 - pretrain.py:260 - Pretrain iter 00074: 0.00209009
+1970-02-15 16:14:41,069 - pretrain.py:260 - Pretrain iter 00075: 0.00200238
+1970-02-15 16:14:41,084 - pretrain.py:260 - Pretrain iter 00076: 0.0019344
+1970-02-15 16:14:41,097 - pretrain.py:260 - Pretrain iter 00077: 0.00192751
+1970-02-15 16:14:41,110 - pretrain.py:260 - Pretrain iter 00078: 0.00192383
+1970-02-15 16:14:41,124 - pretrain.py:260 - Pretrain iter 00079: 0.00184836
+1970-02-15 16:14:41,137 - pretrain.py:260 - Pretrain iter 00080: 0.00184386
+1970-02-15 16:14:41,150 - pretrain.py:260 - Pretrain iter 00081: 0.00173004
+1970-02-15 16:14:41,164 - pretrain.py:260 - Pretrain iter 00082: 0.00164709
+1970-02-15 16:14:41,177 - pretrain.py:260 - Pretrain iter 00083: 0.00157211
+1970-02-15 16:14:41,191 - pretrain.py:260 - Pretrain iter 00084: 0.00150029
+1970-02-15 16:14:41,204 - pretrain.py:260 - Pretrain iter 00085: 0.00147748
+1970-02-15 16:14:41,218 - pretrain.py:260 - Pretrain iter 00086: 0.00142794
+1970-02-15 16:14:41,237 - pretrain.py:260 - Pretrain iter 00087: 0.0013785
+1970-02-15 16:14:41,250 - pretrain.py:260 - Pretrain iter 00088: 0.00136038
+1970-02-15 16:14:41,273 - pretrain.py:260 - Pretrain iter 00089: 0.00134138
+1970-02-15 16:14:41,287 - pretrain.py:260 - Pretrain iter 00090: 0.00131346
+1970-02-15 16:14:41,325 - pretrain.py:260 - Pretrain iter 00091: 0.00127937
+1970-02-15 16:14:41,372 - pretrain.py:260 - Pretrain iter 00092: 0.00122992
+1970-02-15 16:14:41,420 - pretrain.py:260 - Pretrain iter 00093: 0.00119571
+1970-02-15 16:14:41,437 - pretrain.py:260 - Pretrain iter 00094: 0.00119887
+1970-02-15 16:14:41,465 - pretrain.py:260 - Pretrain iter 00095: 0.00119703
+1970-02-15 16:14:41,479 - pretrain.py:260 - Pretrain iter 00096: 0.00117628
+1970-02-15 16:14:41,494 - pretrain.py:260 - Pretrain iter 00097: 0.00116564
+1970-02-15 16:14:41,509 - pretrain.py:260 - Pretrain iter 00098: 0.00114365
+1970-02-15 16:14:41,524 - pretrain.py:260 - Pretrain iter 00099: 0.00112638
+1970-02-15 16:14:42,984 - tag_graph_matcher.py:518 - Matching graph pattern scale_and_shift
+1970-02-15 16:14:42,993 - tag_graph_matcher.py:518 - Matching graph pattern conv2d_with_bias
+1970-02-15 16:14:42,996 - tag_graph_matcher.py:518 - Matching graph pattern dense_with_bias
+1970-02-15 16:14:42,999 - tag_graph_matcher.py:518 - Matching graph pattern scale_only
+1970-02-15 16:14:43,001 - tag_graph_matcher.py:518 - Matching graph pattern conv2d_no_bias
+1970-02-15 16:14:43,002 - tag_graph_matcher.py:518 - Matching graph pattern dense_no_bias
+1970-02-15 16:14:43,004 - tag_graph_matcher.py:552 - ==================================================
+1970-02-15 16:14:43,004 - tag_graph_matcher.py:553 - Graph parameter registrations:
+1970-02-15 16:14:43,004 - tag_graph_matcher.py:554 - [{'double': [{'b': 'Manual[repeated_dense_tag_1]', 'w': 'Manual[repeated_dense_tag_1]'}, {'b': 'Manual[repeated_dense_tag_3]', 'w': 'Manual[repeated_dense_tag_3]'}, {'b': 'Manual[repeated_dense_tag_5]', 'w': 'Manual[repeated_dense_tag_5]'}], 'envelope': [{'pi': 'Auto[scale_only_1]', 'sigma': 'Manual[qmc1_tag_0]'}, {'pi': 'Auto[scale_only_0]', 'sigma': 'Manual[qmc1_tag_1]'}], 'orbital': [{'w': 'Manual[repeated_dense_tag_7]'}, {'w': 'Manual[repeated_dense_tag_8]'}], 'single': [{'b': 'Manual[repeated_dense_tag_0]', 'w': 'Manual[repeated_dense_tag_0]'}, {'b': 'Manual[repeated_dense_tag_2]', 'w': 'Manual[repeated_dense_tag_2]'}, {'b': 'Manual[repeated_dense_tag_4]', 'w': 'Manual[repeated_dense_tag_4]'}, {'b': 'Manual[repeated_dense_tag_6]', 'w': 'Manual[repeated_dense_tag_6]'}]}]
+1970-02-15 16:14:43,004 - tag_graph_matcher.py:555 - ==================================================
+1970-02-15 16:14:43,827 - myLogging.py:38 - Burning in MCMC chain for 100 steps
+1970-02-15 16:14:47,165 - myLogging.py:38 - Completed burn-in MCMC steps
+1970-02-15 16:14:51,647 - myLogging.py:38 - Initial energy: [-4.3669395] E_h
+1970-02-15 16:15:06,061 - myLogging.py:38 - Step 00000: -4.5604 E_h, variance=11.9659 E_h^2, pmove=0.95
+1970-02-15 16:15:06,434 - myLogging.py:38 - Step 00010: -5.1015 E_h, variance=6.1390 E_h^2, pmove=0.96
+1970-02-15 16:15:06,805 - myLogging.py:38 - Step 00020: -5.7215 E_h, variance=9.5615 E_h^2, pmove=0.95
+1970-02-15 16:15:07,176 - myLogging.py:38 - Step 00030: -5.7979 E_h, variance=3.4754 E_h^2, pmove=0.95
+1970-02-15 16:15:07,547 - myLogging.py:38 - Step 00040: -6.1837 E_h, variance=6.0820 E_h^2, pmove=0.94
+1970-02-15 16:15:07,918 - myLogging.py:38 - Step 00050: -6.3018 E_h, variance=3.9842 E_h^2, pmove=0.95
+1970-02-15 16:15:08,288 - myLogging.py:38 - Step 00060: -6.6384 E_h, variance=7.4880 E_h^2, pmove=0.94

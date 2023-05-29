@@ -1,0 +1,619 @@
+1970-02-18 07:48:00,828 - myLogging.py:38 - Starting QMC with 4 XLA devices.
+1970-02-18 07:48:27,749 - pretrain.py:260 - Pretrain iter 00000: 0.0740022
+1970-02-18 07:48:27,771 - pretrain.py:260 - Pretrain iter 00001: 0.0444106
+1970-02-18 07:48:27,789 - pretrain.py:260 - Pretrain iter 00002: 0.0273788
+1970-02-18 07:48:27,804 - pretrain.py:260 - Pretrain iter 00003: 0.0196934
+1970-02-18 07:48:27,819 - pretrain.py:260 - Pretrain iter 00004: 0.0171241
+1970-02-18 07:48:27,835 - pretrain.py:260 - Pretrain iter 00005: 0.0164689
+1970-02-18 07:48:27,850 - pretrain.py:260 - Pretrain iter 00006: 0.0159472
+1970-02-18 07:48:27,864 - pretrain.py:260 - Pretrain iter 00007: 0.0148605
+1970-02-18 07:48:27,879 - pretrain.py:260 - Pretrain iter 00008: 0.0135768
+1970-02-18 07:48:27,895 - pretrain.py:260 - Pretrain iter 00009: 0.0128226
+1970-02-18 07:48:27,908 - pretrain.py:260 - Pretrain iter 00010: 0.0123108
+1970-02-18 07:48:27,922 - pretrain.py:260 - Pretrain iter 00011: 0.0118884
+1970-02-18 07:48:27,936 - pretrain.py:260 - Pretrain iter 00012: 0.0113298
+1970-02-18 07:48:27,950 - pretrain.py:260 - Pretrain iter 00013: 0.0109234
+1970-02-18 07:48:27,965 - pretrain.py:260 - Pretrain iter 00014: 0.0105823
+1970-02-18 07:48:27,980 - pretrain.py:260 - Pretrain iter 00015: 0.0102764
+1970-02-18 07:48:27,995 - pretrain.py:260 - Pretrain iter 00016: 0.00989349
+1970-02-18 07:48:28,010 - pretrain.py:260 - Pretrain iter 00017: 0.00941232
+1970-02-18 07:48:28,025 - pretrain.py:260 - Pretrain iter 00018: 0.00911631
+1970-02-18 07:48:28,041 - pretrain.py:260 - Pretrain iter 00019: 0.00874902
+1970-02-18 07:48:28,056 - pretrain.py:260 - Pretrain iter 00020: 0.00852866
+1970-02-18 07:48:28,072 - pretrain.py:260 - Pretrain iter 00021: 0.00831664
+1970-02-18 07:48:28,087 - pretrain.py:260 - Pretrain iter 00022: 0.00817935
+1970-02-18 07:48:28,103 - pretrain.py:260 - Pretrain iter 00023: 0.00805229
+1970-02-18 07:48:28,118 - pretrain.py:260 - Pretrain iter 00024: 0.00784182
+1970-02-18 07:48:28,133 - pretrain.py:260 - Pretrain iter 00025: 0.00768854
+1970-02-18 07:48:28,148 - pretrain.py:260 - Pretrain iter 00026: 0.0078364
+1970-02-18 07:48:28,164 - pretrain.py:260 - Pretrain iter 00027: 0.0076395
+1970-02-18 07:48:28,179 - pretrain.py:260 - Pretrain iter 00028: 0.00726267
+1970-02-18 07:48:28,193 - pretrain.py:260 - Pretrain iter 00029: 0.00711876
+1970-02-18 07:48:28,208 - pretrain.py:260 - Pretrain iter 00030: 0.00690641
+1970-02-18 07:48:28,222 - pretrain.py:260 - Pretrain iter 00031: 0.00678021
+1970-02-18 07:48:28,237 - pretrain.py:260 - Pretrain iter 00032: 0.00681507
+1970-02-18 07:48:28,251 - pretrain.py:260 - Pretrain iter 00033: 0.00672792
+1970-02-18 07:48:28,266 - pretrain.py:260 - Pretrain iter 00034: 0.00663307
+1970-02-18 07:48:28,280 - pretrain.py:260 - Pretrain iter 00035: 0.00664651
+1970-02-18 07:48:28,294 - pretrain.py:260 - Pretrain iter 00036: 0.00636476
+1970-02-18 07:48:28,309 - pretrain.py:260 - Pretrain iter 00037: 0.00644155
+1970-02-18 07:48:28,323 - pretrain.py:260 - Pretrain iter 00038: 0.00622808
+1970-02-18 07:48:28,337 - pretrain.py:260 - Pretrain iter 00039: 0.00595078
+1970-02-18 07:48:28,356 - pretrain.py:260 - Pretrain iter 00040: 0.00587644
+1970-02-18 07:48:28,370 - pretrain.py:260 - Pretrain iter 00041: 0.00575465
+1970-02-18 07:48:28,384 - pretrain.py:260 - Pretrain iter 00042: 0.0056589
+1970-02-18 07:48:28,412 - pretrain.py:260 - Pretrain iter 00043: 0.00535956
+1970-02-18 07:48:28,426 - pretrain.py:260 - Pretrain iter 00044: 0.00530849
+1970-02-18 07:48:28,444 - pretrain.py:260 - Pretrain iter 00045: 0.0052083
+1970-02-18 07:48:28,459 - pretrain.py:260 - Pretrain iter 00046: 0.00551631
+1970-02-18 07:48:28,473 - pretrain.py:260 - Pretrain iter 00047: 0.00550537
+1970-02-18 07:48:28,499 - pretrain.py:260 - Pretrain iter 00048: 0.00540155
+1970-02-18 07:48:28,528 - pretrain.py:260 - Pretrain iter 00049: 0.00529158
+1970-02-18 07:48:28,549 - pretrain.py:260 - Pretrain iter 00050: 0.00515321
+1970-02-18 07:48:28,563 - pretrain.py:260 - Pretrain iter 00051: 0.00491278
+1970-02-18 07:48:28,577 - pretrain.py:260 - Pretrain iter 00052: 0.00494015
+1970-02-18 07:48:28,592 - pretrain.py:260 - Pretrain iter 00053: 0.00498922
+1970-02-18 07:48:28,616 - pretrain.py:260 - Pretrain iter 00054: 0.00461411
+1970-02-18 07:48:28,635 - pretrain.py:260 - Pretrain iter 00055: 0.0042814
+1970-02-18 07:48:28,652 - pretrain.py:260 - Pretrain iter 00056: 0.00410968
+1970-02-18 07:48:28,678 - pretrain.py:260 - Pretrain iter 00057: 0.00395974
+1970-02-18 07:48:28,704 - pretrain.py:260 - Pretrain iter 00058: 0.00387887
+1970-02-18 07:48:28,734 - pretrain.py:260 - Pretrain iter 00059: 0.00382149
+1970-02-18 07:48:28,756 - pretrain.py:260 - Pretrain iter 00060: 0.00360815
+1970-02-18 07:48:28,772 - pretrain.py:260 - Pretrain iter 00061: 0.00337217
+1970-02-18 07:48:28,788 - pretrain.py:260 - Pretrain iter 00062: 0.00326764
+1970-02-18 07:48:28,803 - pretrain.py:260 - Pretrain iter 00063: 0.00330179
+1970-02-18 07:48:28,819 - pretrain.py:260 - Pretrain iter 00064: 0.00325148
+1970-02-18 07:48:28,836 - pretrain.py:260 - Pretrain iter 00065: 0.00311074
+1970-02-18 07:48:28,851 - pretrain.py:260 - Pretrain iter 00066: 0.00298421
+1970-02-18 07:48:28,866 - pretrain.py:260 - Pretrain iter 00067: 0.00289646
+1970-02-18 07:48:28,881 - pretrain.py:260 - Pretrain iter 00068: 0.00288411
+1970-02-18 07:48:28,896 - pretrain.py:260 - Pretrain iter 00069: 0.00278338
+1970-02-18 07:48:28,915 - pretrain.py:260 - Pretrain iter 00070: 0.00267028
+1970-02-18 07:48:28,932 - pretrain.py:260 - Pretrain iter 00071: 0.00250304
+1970-02-18 07:48:28,948 - pretrain.py:260 - Pretrain iter 00072: 0.00261205
+1970-02-18 07:48:28,962 - pretrain.py:260 - Pretrain iter 00073: 0.00248422
+1970-02-18 07:48:28,977 - pretrain.py:260 - Pretrain iter 00074: 0.00240242
+1970-02-18 07:48:28,992 - pretrain.py:260 - Pretrain iter 00075: 0.00226521
+1970-02-18 07:48:29,006 - pretrain.py:260 - Pretrain iter 00076: 0.00221291
+1970-02-18 07:48:29,021 - pretrain.py:260 - Pretrain iter 00077: 0.00220002
+1970-02-18 07:48:29,036 - pretrain.py:260 - Pretrain iter 00078: 0.00204913
+1970-02-18 07:48:29,052 - pretrain.py:260 - Pretrain iter 00079: 0.00190484
+1970-02-18 07:48:29,067 - pretrain.py:260 - Pretrain iter 00080: 0.00186914
+1970-02-18 07:48:29,082 - pretrain.py:260 - Pretrain iter 00081: 0.00179576
+1970-02-18 07:48:29,098 - pretrain.py:260 - Pretrain iter 00082: 0.00173152
+1970-02-18 07:48:29,112 - pretrain.py:260 - Pretrain iter 00083: 0.00173875
+1970-02-18 07:48:29,127 - pretrain.py:260 - Pretrain iter 00084: 0.00163102
+1970-02-18 07:48:29,141 - pretrain.py:260 - Pretrain iter 00085: 0.00161828
+1970-02-18 07:48:29,155 - pretrain.py:260 - Pretrain iter 00086: 0.00158667
+1970-02-18 07:48:29,169 - pretrain.py:260 - Pretrain iter 00087: 0.00156634
+1970-02-18 07:48:29,184 - pretrain.py:260 - Pretrain iter 00088: 0.00152771
+1970-02-18 07:48:29,198 - pretrain.py:260 - Pretrain iter 00089: 0.00158009
+1970-02-18 07:48:29,212 - pretrain.py:260 - Pretrain iter 00090: 0.00154463
+1970-02-18 07:48:29,226 - pretrain.py:260 - Pretrain iter 00091: 0.00146251
+1970-02-18 07:48:29,240 - pretrain.py:260 - Pretrain iter 00092: 0.00142428
+1970-02-18 07:48:29,255 - pretrain.py:260 - Pretrain iter 00093: 0.00141189
+1970-02-18 07:48:29,269 - pretrain.py:260 - Pretrain iter 00094: 0.00139121
+1970-02-18 07:48:29,283 - pretrain.py:260 - Pretrain iter 00095: 0.0014685
+1970-02-18 07:48:29,297 - pretrain.py:260 - Pretrain iter 00096: 0.00149083
+1970-02-18 07:48:29,313 - pretrain.py:260 - Pretrain iter 00097: 0.00142501
+1970-02-18 07:48:29,327 - pretrain.py:260 - Pretrain iter 00098: 0.00138843
+1970-02-18 07:48:29,341 - pretrain.py:260 - Pretrain iter 00099: 0.00132477
+1970-02-18 07:48:30,844 - tag_graph_matcher.py:518 - Matching graph pattern scale_and_shift
+1970-02-18 07:48:30,854 - tag_graph_matcher.py:518 - Matching graph pattern conv2d_with_bias
+1970-02-18 07:48:30,857 - tag_graph_matcher.py:518 - Matching graph pattern dense_with_bias
+1970-02-18 07:48:30,860 - tag_graph_matcher.py:518 - Matching graph pattern scale_only
+1970-02-18 07:48:30,862 - tag_graph_matcher.py:518 - Matching graph pattern conv2d_no_bias
+1970-02-18 07:48:30,863 - tag_graph_matcher.py:518 - Matching graph pattern dense_no_bias
+1970-02-18 07:48:30,864 - tag_graph_matcher.py:552 - ==================================================
+1970-02-18 07:48:30,864 - tag_graph_matcher.py:553 - Graph parameter registrations:
+1970-02-18 07:48:30,864 - tag_graph_matcher.py:554 - [{'double': [{'b': 'Manual[repeated_dense_tag_1]', 'w': 'Manual[repeated_dense_tag_1]'}, {'b': 'Manual[repeated_dense_tag_3]', 'w': 'Manual[repeated_dense_tag_3]'}, {'b': 'Manual[repeated_dense_tag_5]', 'w': 'Manual[repeated_dense_tag_5]'}], 'envelope': [{'pi': 'Auto[scale_only_0]', 'sigma': 'Manual[qmc1_tag_0]'}, {'pi': 'Auto[scale_only_1]', 'sigma': 'Manual[qmc1_tag_1]'}], 'orbital': [{'w': 'Manual[repeated_dense_tag_7]'}, {'w': 'Manual[repeated_dense_tag_8]'}], 'single': [{'b': 'Manual[repeated_dense_tag_0]', 'w': 'Manual[repeated_dense_tag_0]'}, {'b': 'Manual[repeated_dense_tag_2]', 'w': 'Manual[repeated_dense_tag_2]'}, {'b': 'Manual[repeated_dense_tag_4]', 'w': 'Manual[repeated_dense_tag_4]'}, {'b': 'Manual[repeated_dense_tag_6]', 'w': 'Manual[repeated_dense_tag_6]'}]}]
+1970-02-18 07:48:30,864 - tag_graph_matcher.py:555 - ==================================================
+1970-02-18 07:48:32,962 - myLogging.py:38 - Burning in MCMC chain for 100 steps
+1970-02-18 07:48:38,241 - myLogging.py:38 - Completed burn-in MCMC steps
+1970-02-18 07:48:44,823 - myLogging.py:38 - Initial energy: [-5.346225 -5.346225 -5.346225 -5.346225] E_h
+1970-02-18 07:49:02,290 - myLogging.py:38 - Step 00000: -5.3805 E_h, variance=12.1563 E_h^2, pmove=0.95
+1970-02-18 07:49:02,694 - myLogging.py:38 - Step 00010: -5.5145 E_h, variance=8.2389 E_h^2, pmove=0.94
+1970-02-18 07:49:03,081 - myLogging.py:38 - Step 00020: -5.7681 E_h, variance=4.4952 E_h^2, pmove=0.94
+1970-02-18 07:49:03,435 - myLogging.py:38 - Step 00030: -5.7223 E_h, variance=4.3666 E_h^2, pmove=0.94
+1970-02-18 07:49:03,792 - myLogging.py:38 - Step 00040: -6.3283 E_h, variance=6.9764 E_h^2, pmove=0.95
+1970-02-18 07:49:04,146 - myLogging.py:38 - Step 00050: -6.6728 E_h, variance=8.7132 E_h^2, pmove=0.94
+1970-02-18 07:49:04,506 - myLogging.py:38 - Step 00060: -6.8593 E_h, variance=5.8181 E_h^2, pmove=0.94
+1970-02-18 07:49:04,863 - myLogging.py:38 - Step 00070: -6.7152 E_h, variance=2.9930 E_h^2, pmove=0.94
+1970-02-18 07:49:05,214 - myLogging.py:38 - Step 00080: -6.7609 E_h, variance=2.0472 E_h^2, pmove=0.94
+1970-02-18 07:49:05,570 - myLogging.py:38 - Step 00090: -6.8998 E_h, variance=2.7590 E_h^2, pmove=0.94
+1970-02-18 07:49:06,221 - myLogging.py:38 - Step 00100: -6.8543 E_h, variance=0.7222 E_h^2, pmove=0.95
+1970-02-18 07:49:06,601 - myLogging.py:38 - Step 00110: -6.9527 E_h, variance=1.3646 E_h^2, pmove=0.94
+1970-02-18 07:49:06,962 - myLogging.py:38 - Step 00120: -7.0911 E_h, variance=1.0367 E_h^2, pmove=0.94
+1970-02-18 07:49:07,398 - myLogging.py:38 - Step 00130: -7.1932 E_h, variance=1.8501 E_h^2, pmove=0.93
+1970-02-18 07:49:07,768 - myLogging.py:38 - Step 00140: -7.3620 E_h, variance=3.9999 E_h^2, pmove=0.94
+1970-02-18 07:49:08,124 - myLogging.py:38 - Step 00150: -7.1943 E_h, variance=0.7339 E_h^2, pmove=0.93
+1970-02-18 07:49:08,494 - myLogging.py:38 - Step 00160: -7.4235 E_h, variance=0.9256 E_h^2, pmove=0.93
+1970-02-18 07:49:08,852 - myLogging.py:38 - Step 00170: -7.3775 E_h, variance=0.8706 E_h^2, pmove=0.93
+1970-02-18 07:49:09,212 - myLogging.py:38 - Step 00180: -7.2816 E_h, variance=1.0047 E_h^2, pmove=0.94
+1970-02-18 07:49:09,598 - myLogging.py:38 - Step 00190: -7.3402 E_h, variance=0.4095 E_h^2, pmove=0.93
+1970-02-18 07:49:09,949 - myLogging.py:38 - Step 00200: -7.4148 E_h, variance=0.7572 E_h^2, pmove=0.94
+1970-02-18 07:49:10,302 - myLogging.py:38 - Step 00210: -7.3265 E_h, variance=2.0680 E_h^2, pmove=0.93
+1970-02-18 07:49:10,650 - myLogging.py:38 - Step 00220: -7.2761 E_h, variance=1.0747 E_h^2, pmove=0.93
+1970-02-18 07:49:11,006 - myLogging.py:38 - Step 00230: -7.3465 E_h, variance=1.3182 E_h^2, pmove=0.92
+1970-02-18 07:49:11,363 - myLogging.py:38 - Step 00240: -7.3314 E_h, variance=0.5723 E_h^2, pmove=0.93
+1970-02-18 07:49:11,724 - myLogging.py:38 - Step 00250: -7.3399 E_h, variance=0.9173 E_h^2, pmove=0.93
+1970-02-18 07:49:12,083 - myLogging.py:38 - Step 00260: -7.3771 E_h, variance=0.4413 E_h^2, pmove=0.93
+1970-02-18 07:49:12,444 - myLogging.py:38 - Step 00270: -7.3389 E_h, variance=1.0205 E_h^2, pmove=0.92
+1970-02-18 07:49:12,805 - myLogging.py:38 - Step 00280: -7.3225 E_h, variance=0.3649 E_h^2, pmove=0.93
+1970-02-18 07:49:13,165 - myLogging.py:38 - Step 00290: -7.3045 E_h, variance=0.6122 E_h^2, pmove=0.92
+1970-02-18 07:49:13,520 - myLogging.py:38 - Step 00300: -7.1861 E_h, variance=8.7418 E_h^2, pmove=0.92
+1970-02-18 07:49:13,878 - myLogging.py:38 - Step 00310: -7.3900 E_h, variance=0.2475 E_h^2, pmove=0.92
+1970-02-18 07:49:14,238 - myLogging.py:38 - Step 00320: -7.3047 E_h, variance=0.4025 E_h^2, pmove=0.92
+1970-02-18 07:49:14,600 - myLogging.py:38 - Step 00330: -7.2989 E_h, variance=0.8689 E_h^2, pmove=0.91
+1970-02-18 07:49:14,960 - myLogging.py:38 - Step 00340: -7.4695 E_h, variance=0.7593 E_h^2, pmove=0.92
+1970-02-18 07:49:15,319 - myLogging.py:38 - Step 00350: -7.3666 E_h, variance=0.3430 E_h^2, pmove=0.92
+1970-02-18 07:49:15,681 - myLogging.py:38 - Step 00360: -7.3803 E_h, variance=0.2409 E_h^2, pmove=0.91
+1970-02-18 07:49:16,039 - myLogging.py:38 - Step 00370: -7.5106 E_h, variance=2.2115 E_h^2, pmove=0.91
+1970-02-18 07:49:16,400 - myLogging.py:38 - Step 00380: -7.3752 E_h, variance=0.3656 E_h^2, pmove=0.91
+1970-02-18 07:49:16,770 - myLogging.py:38 - Step 00390: -7.4025 E_h, variance=0.1462 E_h^2, pmove=0.91
+1970-02-18 07:49:17,130 - myLogging.py:38 - Step 00400: -7.4108 E_h, variance=0.1584 E_h^2, pmove=0.92
+1970-02-18 07:49:17,522 - myLogging.py:38 - Step 00410: -7.4476 E_h, variance=2.9181 E_h^2, pmove=0.90
+1970-02-18 07:49:17,893 - myLogging.py:38 - Step 00420: -7.4037 E_h, variance=0.5349 E_h^2, pmove=0.91
+1970-02-18 07:49:18,258 - myLogging.py:38 - Step 00430: -7.3688 E_h, variance=0.3048 E_h^2, pmove=0.91
+1970-02-18 07:49:18,619 - myLogging.py:38 - Step 00440: -7.4891 E_h, variance=1.2412 E_h^2, pmove=0.91
+1970-02-18 07:49:18,981 - myLogging.py:38 - Step 00450: -7.4974 E_h, variance=0.2185 E_h^2, pmove=0.91
+1970-02-18 07:49:19,341 - myLogging.py:38 - Step 00460: -7.4165 E_h, variance=0.2203 E_h^2, pmove=0.90
+1970-02-18 07:49:19,701 - myLogging.py:38 - Step 00470: -7.3959 E_h, variance=0.1274 E_h^2, pmove=0.91
+1970-02-18 07:49:20,115 - myLogging.py:38 - Step 00480: -7.3344 E_h, variance=0.4832 E_h^2, pmove=0.91
+1970-02-18 07:49:20,492 - myLogging.py:38 - Step 00490: -7.4973 E_h, variance=2.6551 E_h^2, pmove=0.91
+1970-02-18 07:49:20,931 - myLogging.py:38 - Step 00500: -7.4819 E_h, variance=0.5005 E_h^2, pmove=0.90
+1970-02-18 07:49:21,364 - myLogging.py:38 - Step 00510: -7.4335 E_h, variance=0.1626 E_h^2, pmove=0.91
+1970-02-18 07:49:21,799 - myLogging.py:38 - Step 00520: -7.4409 E_h, variance=0.1177 E_h^2, pmove=0.90
+1970-02-18 07:49:22,205 - myLogging.py:38 - Step 00530: -7.4517 E_h, variance=0.2131 E_h^2, pmove=0.91
+1970-02-18 07:49:22,586 - myLogging.py:38 - Step 00540: -7.5122 E_h, variance=0.4213 E_h^2, pmove=0.89
+1970-02-18 07:49:22,963 - myLogging.py:38 - Step 00550: -7.4875 E_h, variance=0.1509 E_h^2, pmove=0.89
+1970-02-18 07:49:23,402 - myLogging.py:38 - Step 00560: -7.4643 E_h, variance=0.0819 E_h^2, pmove=0.90
+1970-02-18 07:49:23,780 - myLogging.py:38 - Step 00570: -7.5676 E_h, variance=1.1061 E_h^2, pmove=0.90
+1970-02-18 07:49:24,190 - myLogging.py:38 - Step 00580: -7.4660 E_h, variance=0.3149 E_h^2, pmove=0.90
+1970-02-18 07:49:24,518 - myLogging.py:38 - Step 00590: -7.4895 E_h, variance=0.1642 E_h^2, pmove=0.90
+1970-02-18 07:49:24,851 - myLogging.py:38 - Step 00600: -7.4675 E_h, variance=0.2235 E_h^2, pmove=0.91
+1970-02-18 07:49:25,196 - myLogging.py:38 - Step 00610: -7.4550 E_h, variance=0.0926 E_h^2, pmove=0.88
+1970-02-18 07:49:25,557 - myLogging.py:38 - Step 00620: -7.4360 E_h, variance=0.0689 E_h^2, pmove=0.90
+1970-02-18 07:49:25,911 - myLogging.py:38 - Step 00630: -7.4694 E_h, variance=0.1331 E_h^2, pmove=0.88
+1970-02-18 07:49:26,258 - myLogging.py:38 - Step 00640: -7.4760 E_h, variance=0.1125 E_h^2, pmove=0.90
+1970-02-18 07:49:26,603 - myLogging.py:38 - Step 00650: -7.4599 E_h, variance=0.1380 E_h^2, pmove=0.88
+1970-02-18 07:49:26,961 - myLogging.py:38 - Step 00660: -7.4553 E_h, variance=0.0986 E_h^2, pmove=0.91
+1970-02-18 07:49:27,328 - myLogging.py:38 - Step 00670: -7.4096 E_h, variance=0.0687 E_h^2, pmove=0.88
+1970-02-18 07:49:27,688 - myLogging.py:38 - Step 00680: -7.4594 E_h, variance=0.0978 E_h^2, pmove=0.89
+1970-02-18 07:49:28,047 - myLogging.py:38 - Step 00690: -7.4781 E_h, variance=0.0564 E_h^2, pmove=0.89
+1970-02-18 07:49:28,409 - myLogging.py:38 - Step 00700: -7.4438 E_h, variance=0.0592 E_h^2, pmove=0.89
+1970-02-18 07:49:28,768 - myLogging.py:38 - Step 00710: -7.4765 E_h, variance=0.0820 E_h^2, pmove=0.89
+1970-02-18 07:49:29,129 - myLogging.py:38 - Step 00720: -7.4778 E_h, variance=0.1843 E_h^2, pmove=0.89
+1970-02-18 07:49:29,488 - myLogging.py:38 - Step 00730: -7.4341 E_h, variance=0.0946 E_h^2, pmove=0.89
+1970-02-18 07:49:29,848 - myLogging.py:38 - Step 00740: -7.4020 E_h, variance=0.2041 E_h^2, pmove=0.88
+1970-02-18 07:49:30,216 - myLogging.py:38 - Step 00750: -7.4493 E_h, variance=0.0741 E_h^2, pmove=0.87
+1970-02-18 07:49:30,576 - myLogging.py:38 - Step 00760: -7.4528 E_h, variance=0.0781 E_h^2, pmove=0.89
+1970-02-18 07:49:30,946 - myLogging.py:38 - Step 00770: -7.4437 E_h, variance=0.0701 E_h^2, pmove=0.87
+1970-02-18 07:49:31,336 - myLogging.py:38 - Step 00780: -7.4578 E_h, variance=0.0672 E_h^2, pmove=0.88
+1970-02-18 07:49:31,697 - myLogging.py:38 - Step 00790: -7.4519 E_h, variance=0.1331 E_h^2, pmove=0.86
+1970-02-18 07:49:32,057 - myLogging.py:38 - Step 00800: -7.4400 E_h, variance=0.3364 E_h^2, pmove=0.87
+1970-02-18 07:49:32,415 - myLogging.py:38 - Step 00810: -7.4896 E_h, variance=0.0812 E_h^2, pmove=0.89
+1970-02-18 07:49:32,776 - myLogging.py:38 - Step 00820: -7.4804 E_h, variance=0.0800 E_h^2, pmove=0.87
+1970-02-18 07:49:33,146 - myLogging.py:38 - Step 00830: -7.4620 E_h, variance=0.1119 E_h^2, pmove=0.88
+1970-02-18 07:49:33,506 - myLogging.py:38 - Step 00840: -7.4661 E_h, variance=0.1045 E_h^2, pmove=0.86
+1970-02-18 07:49:33,907 - myLogging.py:38 - Step 00850: -7.4878 E_h, variance=0.1321 E_h^2, pmove=0.88
+1970-02-18 07:49:34,261 - myLogging.py:38 - Step 00860: -7.4818 E_h, variance=0.0561 E_h^2, pmove=0.87
+1970-02-18 07:49:34,609 - myLogging.py:38 - Step 00870: -7.4377 E_h, variance=0.0546 E_h^2, pmove=0.88
+1970-02-18 07:49:34,956 - myLogging.py:38 - Step 00880: -7.4665 E_h, variance=0.3447 E_h^2, pmove=0.88
+1970-02-18 07:49:35,310 - myLogging.py:38 - Step 00890: -7.4331 E_h, variance=0.1442 E_h^2, pmove=0.89
+1970-02-18 07:49:35,671 - myLogging.py:38 - Step 00900: -7.4671 E_h, variance=0.0511 E_h^2, pmove=0.88
+1970-02-18 07:49:36,037 - myLogging.py:38 - Step 00910: -7.4810 E_h, variance=0.0644 E_h^2, pmove=0.84
+1970-02-18 07:49:36,376 - myLogging.py:38 - Step 00920: -7.4594 E_h, variance=0.0988 E_h^2, pmove=0.86
+1970-02-18 07:49:36,726 - myLogging.py:38 - Step 00930: -7.4251 E_h, variance=0.1556 E_h^2, pmove=0.85
+1970-02-18 07:49:37,073 - myLogging.py:38 - Step 00940: -7.4977 E_h, variance=0.1473 E_h^2, pmove=0.86
+1970-02-18 07:49:37,423 - myLogging.py:38 - Step 00950: -7.4724 E_h, variance=0.0821 E_h^2, pmove=0.86
+1970-02-18 07:49:37,784 - myLogging.py:38 - Step 00960: -7.4519 E_h, variance=0.0476 E_h^2, pmove=0.86
+1970-02-18 07:49:38,144 - myLogging.py:38 - Step 00970: -7.4519 E_h, variance=0.0490 E_h^2, pmove=0.86
+1970-02-18 07:49:38,507 - myLogging.py:38 - Step 00980: -7.4583 E_h, variance=0.0510 E_h^2, pmove=0.87
+1970-02-18 07:49:38,865 - myLogging.py:38 - Step 00990: -7.4689 E_h, variance=0.1156 E_h^2, pmove=0.86
+1970-02-18 07:49:39,225 - myLogging.py:38 - Step 01000: -7.4724 E_h, variance=0.0422 E_h^2, pmove=0.86
+1970-02-18 07:49:39,583 - myLogging.py:38 - Step 01010: -7.4410 E_h, variance=0.1210 E_h^2, pmove=0.84
+1970-02-18 07:49:39,949 - myLogging.py:38 - Step 01020: -7.4528 E_h, variance=0.0784 E_h^2, pmove=0.84
+1970-02-18 07:49:40,309 - myLogging.py:38 - Step 01030: -7.4555 E_h, variance=0.0647 E_h^2, pmove=0.84
+1970-02-18 07:49:40,672 - myLogging.py:38 - Step 01040: -7.4618 E_h, variance=0.0457 E_h^2, pmove=0.84
+1970-02-18 07:49:41,034 - myLogging.py:38 - Step 01050: -7.4530 E_h, variance=0.0640 E_h^2, pmove=0.84
+1970-02-18 07:49:41,400 - myLogging.py:38 - Step 01060: -7.4735 E_h, variance=0.0622 E_h^2, pmove=0.85
+1970-02-18 07:49:41,776 - myLogging.py:38 - Step 01070: -7.5295 E_h, variance=0.3865 E_h^2, pmove=0.85
+1970-02-18 07:49:42,147 - myLogging.py:38 - Step 01080: -7.4748 E_h, variance=0.0403 E_h^2, pmove=0.86
+1970-02-18 07:49:42,508 - myLogging.py:38 - Step 01090: -7.4441 E_h, variance=0.0795 E_h^2, pmove=0.84
+1970-02-18 07:49:42,869 - myLogging.py:38 - Step 01100: -7.4579 E_h, variance=0.0926 E_h^2, pmove=0.85
+1970-02-18 07:49:43,230 - myLogging.py:38 - Step 01110: -7.4041 E_h, variance=1.3754 E_h^2, pmove=0.82
+1970-02-18 07:49:43,589 - myLogging.py:38 - Step 01120: -7.4699 E_h, variance=0.1245 E_h^2, pmove=0.83
+1970-02-18 07:49:43,948 - myLogging.py:38 - Step 01130: -7.4905 E_h, variance=0.0720 E_h^2, pmove=0.83
+1970-02-18 07:49:44,308 - myLogging.py:38 - Step 01140: -7.4918 E_h, variance=0.0568 E_h^2, pmove=0.83
+1970-02-18 07:49:44,669 - myLogging.py:38 - Step 01150: -7.4540 E_h, variance=0.0498 E_h^2, pmove=0.83
+1970-02-18 07:49:45,027 - myLogging.py:38 - Step 01160: -7.4723 E_h, variance=0.0947 E_h^2, pmove=0.82
+1970-02-18 07:49:45,389 - myLogging.py:38 - Step 01170: -7.4459 E_h, variance=0.1700 E_h^2, pmove=0.84
+1970-02-18 07:49:45,748 - myLogging.py:38 - Step 01180: -7.4614 E_h, variance=0.0783 E_h^2, pmove=0.84
+1970-02-18 07:49:46,108 - myLogging.py:38 - Step 01190: -7.4755 E_h, variance=0.0580 E_h^2, pmove=0.83
+1970-02-18 07:49:46,469 - myLogging.py:38 - Step 01200: -7.4604 E_h, variance=0.0397 E_h^2, pmove=0.83
+1970-02-18 07:49:46,828 - myLogging.py:38 - Step 01210: -7.5009 E_h, variance=0.1674 E_h^2, pmove=0.80
+1970-02-18 07:49:47,189 - myLogging.py:38 - Step 01220: -7.4427 E_h, variance=0.1122 E_h^2, pmove=0.81
+1970-02-18 07:49:47,548 - myLogging.py:38 - Step 01230: -7.4699 E_h, variance=0.0799 E_h^2, pmove=0.80
+1970-02-18 07:49:47,909 - myLogging.py:38 - Step 01240: -7.4526 E_h, variance=0.0604 E_h^2, pmove=0.82
+1970-02-18 07:49:48,269 - myLogging.py:38 - Step 01250: -7.4792 E_h, variance=0.2006 E_h^2, pmove=0.82
+1970-02-18 07:49:48,682 - myLogging.py:38 - Step 01260: -7.4812 E_h, variance=0.0796 E_h^2, pmove=0.82
+1970-02-18 07:49:49,114 - myLogging.py:38 - Step 01270: -7.4646 E_h, variance=0.0516 E_h^2, pmove=0.81
+1970-02-18 07:49:49,536 - myLogging.py:38 - Step 01280: -7.4700 E_h, variance=0.0482 E_h^2, pmove=0.82
+1970-02-18 07:49:49,960 - myLogging.py:38 - Step 01290: -7.4547 E_h, variance=0.0568 E_h^2, pmove=0.82
+1970-02-18 07:49:50,377 - myLogging.py:38 - Step 01300: -7.4460 E_h, variance=0.1200 E_h^2, pmove=0.82
+1970-02-18 07:49:50,736 - myLogging.py:38 - Step 01310: -7.4893 E_h, variance=0.0454 E_h^2, pmove=0.80
+1970-02-18 07:49:51,131 - myLogging.py:38 - Step 01320: -7.4503 E_h, variance=0.1798 E_h^2, pmove=0.79
+1970-02-18 07:49:51,535 - myLogging.py:38 - Step 01330: -7.4741 E_h, variance=0.0644 E_h^2, pmove=0.81
+1970-02-18 07:49:51,890 - myLogging.py:38 - Step 01340: -7.5698 E_h, variance=3.1162 E_h^2, pmove=0.79
+1970-02-18 07:49:52,252 - myLogging.py:38 - Step 01350: -7.4801 E_h, variance=0.0547 E_h^2, pmove=0.79
+1970-02-18 07:49:52,693 - myLogging.py:38 - Step 01360: -7.4377 E_h, variance=0.0508 E_h^2, pmove=0.78
+1970-02-18 07:49:53,087 - myLogging.py:38 - Step 01370: -7.4740 E_h, variance=0.0578 E_h^2, pmove=0.80
+1970-02-18 07:49:53,488 - myLogging.py:38 - Step 01380: -7.4667 E_h, variance=0.0393 E_h^2, pmove=0.79
+1970-02-18 07:49:53,853 - myLogging.py:38 - Step 01390: -7.5071 E_h, variance=0.0488 E_h^2, pmove=0.79
+1970-02-18 07:49:54,252 - myLogging.py:38 - Step 01400: -7.4639 E_h, variance=0.0448 E_h^2, pmove=0.79
+1970-02-18 07:49:54,664 - myLogging.py:38 - Step 01410: -7.4651 E_h, variance=0.0508 E_h^2, pmove=0.75
+1970-02-18 07:49:55,084 - myLogging.py:38 - Step 01420: -7.4467 E_h, variance=0.0505 E_h^2, pmove=0.76
+1970-02-18 07:49:55,468 - myLogging.py:38 - Step 01430: -7.4365 E_h, variance=0.0749 E_h^2, pmove=0.78
+1970-02-18 07:49:55,883 - myLogging.py:38 - Step 01440: -7.4870 E_h, variance=0.1236 E_h^2, pmove=0.77
+1970-02-18 07:49:56,295 - myLogging.py:38 - Step 01450: -7.4518 E_h, variance=0.0540 E_h^2, pmove=0.77
+1970-02-18 07:49:56,644 - myLogging.py:38 - Step 01460: -7.4711 E_h, variance=0.1893 E_h^2, pmove=0.77
+1970-02-18 07:49:57,002 - myLogging.py:38 - Step 01470: -7.4410 E_h, variance=0.1213 E_h^2, pmove=0.77
+1970-02-18 07:49:57,365 - myLogging.py:38 - Step 01480: -7.4633 E_h, variance=0.0779 E_h^2, pmove=0.77
+1970-02-18 07:49:57,714 - myLogging.py:38 - Step 01490: -7.4727 E_h, variance=0.0431 E_h^2, pmove=0.79
+1970-02-18 07:49:58,099 - myLogging.py:38 - Step 01500: -7.4880 E_h, variance=0.0833 E_h^2, pmove=0.77
+1970-02-18 07:49:58,480 - myLogging.py:38 - Step 01510: -7.4437 E_h, variance=0.0887 E_h^2, pmove=0.75
+1970-02-18 07:49:58,850 - myLogging.py:38 - Step 01520: -7.4916 E_h, variance=0.0526 E_h^2, pmove=0.75
+1970-02-18 07:49:59,211 - myLogging.py:38 - Step 01530: -7.4648 E_h, variance=0.0615 E_h^2, pmove=0.75
+1970-02-18 07:49:59,573 - myLogging.py:38 - Step 01540: -7.4954 E_h, variance=0.0989 E_h^2, pmove=0.75
+1970-02-18 07:49:59,932 - myLogging.py:38 - Step 01550: -7.4960 E_h, variance=0.1659 E_h^2, pmove=0.75
+1970-02-18 07:50:00,296 - myLogging.py:38 - Step 01560: -7.4694 E_h, variance=0.1031 E_h^2, pmove=0.76
+1970-02-18 07:50:00,660 - myLogging.py:38 - Step 01570: -7.4681 E_h, variance=0.0518 E_h^2, pmove=0.73
+1970-02-18 07:50:01,023 - myLogging.py:38 - Step 01580: -7.4525 E_h, variance=0.0714 E_h^2, pmove=0.75
+1970-02-18 07:50:01,383 - myLogging.py:38 - Step 01590: -7.4559 E_h, variance=0.0530 E_h^2, pmove=0.75
+1970-02-18 07:50:01,745 - myLogging.py:38 - Step 01600: -7.4567 E_h, variance=0.1515 E_h^2, pmove=0.76
+1970-02-18 07:50:02,102 - myLogging.py:38 - Step 01610: -7.4798 E_h, variance=0.0341 E_h^2, pmove=0.74
+1970-02-18 07:50:02,478 - myLogging.py:38 - Step 01620: -7.4173 E_h, variance=0.4582 E_h^2, pmove=0.73
+1970-02-18 07:50:02,840 - myLogging.py:38 - Step 01630: -7.4587 E_h, variance=0.0320 E_h^2, pmove=0.74
+1970-02-18 07:50:03,200 - myLogging.py:38 - Step 01640: -7.4989 E_h, variance=0.1003 E_h^2, pmove=0.71
+1970-02-18 07:50:03,557 - myLogging.py:38 - Step 01650: -7.5705 E_h, variance=1.2176 E_h^2, pmove=0.73
+1970-02-18 07:50:03,912 - myLogging.py:38 - Step 01660: -7.4773 E_h, variance=0.0491 E_h^2, pmove=0.73
+1970-02-18 07:50:04,272 - myLogging.py:38 - Step 01670: -7.4425 E_h, variance=0.0751 E_h^2, pmove=0.72
+1970-02-18 07:50:04,637 - myLogging.py:38 - Step 01680: -7.4668 E_h, variance=0.0517 E_h^2, pmove=0.73
+1970-02-18 07:50:05,072 - myLogging.py:38 - Step 01690: -7.4718 E_h, variance=0.0451 E_h^2, pmove=0.73
+1970-02-18 07:50:05,570 - myLogging.py:38 - Step 01700: -7.4793 E_h, variance=0.0397 E_h^2, pmove=0.71
+1970-02-18 07:50:05,977 - myLogging.py:38 - Step 01710: -7.4571 E_h, variance=0.0578 E_h^2, pmove=0.69
+1970-02-18 07:50:06,401 - myLogging.py:38 - Step 01720: -7.4645 E_h, variance=0.0367 E_h^2, pmove=0.72
+1970-02-18 07:50:06,788 - myLogging.py:38 - Step 01730: -7.4402 E_h, variance=0.0830 E_h^2, pmove=0.70
+1970-02-18 07:50:07,193 - myLogging.py:38 - Step 01740: -7.4577 E_h, variance=0.0682 E_h^2, pmove=0.71
+1970-02-18 07:50:07,584 - myLogging.py:38 - Step 01750: -7.4319 E_h, variance=0.0540 E_h^2, pmove=0.68
+1970-02-18 07:50:07,996 - myLogging.py:38 - Step 01760: -7.4480 E_h, variance=0.0384 E_h^2, pmove=0.70
+1970-02-18 07:50:08,403 - myLogging.py:38 - Step 01770: -7.4869 E_h, variance=0.0311 E_h^2, pmove=0.70
+1970-02-18 07:50:08,817 - myLogging.py:38 - Step 01780: -7.4804 E_h, variance=0.0451 E_h^2, pmove=0.71
+1970-02-18 07:50:09,211 - myLogging.py:38 - Step 01790: -7.4629 E_h, variance=0.0392 E_h^2, pmove=0.70
+1970-02-18 07:50:09,649 - myLogging.py:38 - Step 01800: -7.4657 E_h, variance=0.1744 E_h^2, pmove=0.71
+1970-02-18 07:50:09,995 - myLogging.py:38 - Step 01810: -7.4612 E_h, variance=0.0287 E_h^2, pmove=0.69
+1970-02-18 07:50:10,343 - myLogging.py:38 - Step 01820: -7.4031 E_h, variance=1.5013 E_h^2, pmove=0.68
+1970-02-18 07:50:10,689 - myLogging.py:38 - Step 01830: -7.4653 E_h, variance=0.0433 E_h^2, pmove=0.69
+1970-02-18 07:50:11,038 - myLogging.py:38 - Step 01840: -7.4531 E_h, variance=0.0953 E_h^2, pmove=0.68
+1970-02-18 07:50:11,390 - myLogging.py:38 - Step 01850: -7.4894 E_h, variance=0.0348 E_h^2, pmove=0.68
+1970-02-18 07:50:11,741 - myLogging.py:38 - Step 01860: -7.4439 E_h, variance=0.0551 E_h^2, pmove=0.69
+1970-02-18 07:50:12,094 - myLogging.py:38 - Step 01870: -7.4742 E_h, variance=0.0393 E_h^2, pmove=0.66
+1970-02-18 07:50:12,453 - myLogging.py:38 - Step 01880: -7.4849 E_h, variance=0.1310 E_h^2, pmove=0.68
+1970-02-18 07:50:12,814 - myLogging.py:38 - Step 01890: -7.4816 E_h, variance=0.0356 E_h^2, pmove=0.69
+1970-02-18 07:50:13,176 - myLogging.py:38 - Step 01900: -7.4693 E_h, variance=0.0512 E_h^2, pmove=0.68
+1970-02-18 07:50:13,535 - myLogging.py:38 - Step 01910: -7.4887 E_h, variance=0.0674 E_h^2, pmove=0.67
+1970-02-18 07:50:13,891 - myLogging.py:38 - Step 01920: -7.4823 E_h, variance=0.0366 E_h^2, pmove=0.65
+1970-02-18 07:50:14,261 - myLogging.py:38 - Step 01930: -7.4676 E_h, variance=0.0706 E_h^2, pmove=0.64
+1970-02-18 07:50:14,634 - myLogging.py:38 - Step 01940: -7.4662 E_h, variance=0.0342 E_h^2, pmove=0.64
+1970-02-18 07:50:14,996 - myLogging.py:38 - Step 01950: -7.4729 E_h, variance=0.0275 E_h^2, pmove=0.65
+1970-02-18 07:50:15,356 - myLogging.py:38 - Step 01960: -7.4684 E_h, variance=0.0706 E_h^2, pmove=0.64
+1970-02-18 07:50:15,724 - myLogging.py:38 - Step 01970: -7.4925 E_h, variance=0.0424 E_h^2, pmove=0.64
+1970-02-18 07:50:16,084 - myLogging.py:38 - Step 01980: -7.4447 E_h, variance=0.1397 E_h^2, pmove=0.64
+1970-02-18 07:50:16,448 - myLogging.py:38 - Step 01990: -7.4895 E_h, variance=0.0421 E_h^2, pmove=0.65
+1970-02-18 07:50:16,810 - myLogging.py:38 - Step 02000: -7.4882 E_h, variance=0.0264 E_h^2, pmove=0.67
+1970-02-18 07:50:17,169 - myLogging.py:38 - Step 02010: -7.4334 E_h, variance=0.0629 E_h^2, pmove=0.62
+1970-02-18 07:50:17,528 - myLogging.py:38 - Step 02020: -7.4223 E_h, variance=0.4000 E_h^2, pmove=0.60
+1970-02-18 07:50:17,889 - myLogging.py:38 - Step 02030: -7.4672 E_h, variance=0.0475 E_h^2, pmove=0.65
+1970-02-18 07:50:18,253 - myLogging.py:38 - Step 02040: -7.4837 E_h, variance=0.0790 E_h^2, pmove=0.62
+1970-02-18 07:50:18,622 - myLogging.py:38 - Step 02050: -7.4678 E_h, variance=0.0333 E_h^2, pmove=0.63
+1970-02-18 07:50:18,974 - myLogging.py:38 - Step 02060: -7.4603 E_h, variance=0.0376 E_h^2, pmove=0.64
+1970-02-18 07:50:19,326 - myLogging.py:38 - Step 02070: -7.4447 E_h, variance=0.1626 E_h^2, pmove=0.62
+1970-02-18 07:50:19,674 - myLogging.py:38 - Step 02080: -7.4992 E_h, variance=0.1150 E_h^2, pmove=0.62
+1970-02-18 07:50:20,035 - myLogging.py:38 - Step 02090: -7.4902 E_h, variance=0.0799 E_h^2, pmove=0.62
+1970-02-18 07:50:20,394 - myLogging.py:38 - Step 02100: -7.4810 E_h, variance=0.0438 E_h^2, pmove=0.61
+1970-02-18 07:50:20,758 - myLogging.py:38 - Step 02110: -7.4629 E_h, variance=0.0228 E_h^2, pmove=0.58
+1970-02-18 07:50:21,120 - myLogging.py:38 - Step 02120: -7.4655 E_h, variance=0.0356 E_h^2, pmove=0.58
+1970-02-18 07:50:21,480 - myLogging.py:38 - Step 02130: -7.5084 E_h, variance=0.1130 E_h^2, pmove=0.57
+1970-02-18 07:50:21,849 - myLogging.py:38 - Step 02140: -7.4741 E_h, variance=0.0251 E_h^2, pmove=0.59
+1970-02-18 07:50:22,229 - myLogging.py:38 - Step 02150: -7.4635 E_h, variance=0.0382 E_h^2, pmove=0.59
+1970-02-18 07:50:22,624 - myLogging.py:38 - Step 02160: -7.4700 E_h, variance=0.0608 E_h^2, pmove=0.61
+1970-02-18 07:50:22,989 - myLogging.py:38 - Step 02170: -7.4787 E_h, variance=0.0316 E_h^2, pmove=0.58
+1970-02-18 07:50:23,361 - myLogging.py:38 - Step 02180: -7.4930 E_h, variance=0.0382 E_h^2, pmove=0.59
+1970-02-18 07:50:23,747 - myLogging.py:38 - Step 02190: -7.4501 E_h, variance=0.0732 E_h^2, pmove=0.60
+1970-02-18 07:50:24,113 - myLogging.py:38 - Step 02200: -7.4682 E_h, variance=0.0495 E_h^2, pmove=0.59
+1970-02-18 07:50:24,472 - myLogging.py:38 - Step 02210: -7.4707 E_h, variance=0.0257 E_h^2, pmove=0.57
+1970-02-18 07:50:24,832 - myLogging.py:38 - Step 02220: -7.4652 E_h, variance=0.0462 E_h^2, pmove=0.55
+1970-02-18 07:50:25,192 - myLogging.py:38 - Step 02230: -7.5242 E_h, variance=0.1469 E_h^2, pmove=0.54
+1970-02-18 07:50:25,553 - myLogging.py:38 - Step 02240: -7.4649 E_h, variance=0.0397 E_h^2, pmove=0.55
+1970-02-18 07:50:25,913 - myLogging.py:38 - Step 02250: -7.4645 E_h, variance=0.0430 E_h^2, pmove=0.56
+1970-02-18 07:50:26,280 - myLogging.py:38 - Step 02260: -7.4769 E_h, variance=0.0573 E_h^2, pmove=0.54
+1970-02-18 07:50:26,639 - myLogging.py:38 - Step 02270: -7.4902 E_h, variance=0.0403 E_h^2, pmove=0.55
+1970-02-18 07:50:27,015 - myLogging.py:38 - Step 02280: -7.4770 E_h, variance=0.0677 E_h^2, pmove=0.55
+1970-02-18 07:50:27,387 - myLogging.py:38 - Step 02290: -7.4736 E_h, variance=0.0810 E_h^2, pmove=0.55
+1970-02-18 07:50:27,770 - myLogging.py:38 - Step 02300: -7.4987 E_h, variance=0.1127 E_h^2, pmove=0.53
+1970-02-18 07:50:28,132 - myLogging.py:38 - Step 02310: -7.4619 E_h, variance=0.0369 E_h^2, pmove=0.51
+1970-02-18 07:50:28,492 - myLogging.py:38 - Step 02320: -7.4911 E_h, variance=0.0687 E_h^2, pmove=0.50
+1970-02-18 07:50:28,853 - myLogging.py:38 - Step 02330: -7.4617 E_h, variance=0.0291 E_h^2, pmove=0.52
+1970-02-18 07:50:29,212 - myLogging.py:38 - Step 02340: -7.4704 E_h, variance=0.0261 E_h^2, pmove=0.53
+1970-02-18 07:50:29,571 - myLogging.py:38 - Step 02350: -7.4541 E_h, variance=0.1137 E_h^2, pmove=0.51
+1970-02-18 07:50:29,933 - myLogging.py:38 - Step 02360: -7.4722 E_h, variance=0.0485 E_h^2, pmove=0.53
+1970-02-18 07:50:30,317 - myLogging.py:38 - Step 02370: -7.4591 E_h, variance=0.0495 E_h^2, pmove=0.53
+1970-02-18 07:50:30,694 - myLogging.py:38 - Step 02380: -7.4951 E_h, variance=0.0228 E_h^2, pmove=0.52
+1970-02-18 07:50:31,059 - myLogging.py:38 - Step 02390: -7.4458 E_h, variance=0.2691 E_h^2, pmove=0.50
+1970-02-18 07:50:31,420 - myLogging.py:38 - Step 02400: -7.4818 E_h, variance=0.0261 E_h^2, pmove=0.52
+1970-02-18 07:50:31,785 - myLogging.py:38 - Step 02410: -7.4683 E_h, variance=0.0238 E_h^2, pmove=0.50
+1970-02-18 07:50:32,144 - myLogging.py:38 - Step 02420: -7.4430 E_h, variance=0.0627 E_h^2, pmove=0.51
+1970-02-18 07:50:32,505 - myLogging.py:38 - Step 02430: -7.4725 E_h, variance=0.0312 E_h^2, pmove=0.53
+1970-02-18 07:50:32,865 - myLogging.py:38 - Step 02440: -7.4658 E_h, variance=0.0380 E_h^2, pmove=0.53
+1970-02-18 07:50:33,225 - myLogging.py:38 - Step 02450: -7.4796 E_h, variance=0.0342 E_h^2, pmove=0.52
+1970-02-18 07:50:33,584 - myLogging.py:38 - Step 02460: -7.5182 E_h, variance=0.0305 E_h^2, pmove=0.51
+1970-02-18 07:50:33,944 - myLogging.py:38 - Step 02470: -7.4720 E_h, variance=0.0448 E_h^2, pmove=0.54
+1970-02-18 07:50:34,305 - myLogging.py:38 - Step 02480: -7.4766 E_h, variance=0.0784 E_h^2, pmove=0.51
+1970-02-18 07:50:34,664 - myLogging.py:38 - Step 02490: -7.4843 E_h, variance=0.0442 E_h^2, pmove=0.52
+1970-02-18 07:50:35,023 - myLogging.py:38 - Step 02500: -7.4557 E_h, variance=0.1119 E_h^2, pmove=0.52
+1970-02-18 07:50:35,384 - myLogging.py:38 - Step 02510: -7.4863 E_h, variance=0.0282 E_h^2, pmove=0.51
+1970-02-18 07:50:35,744 - myLogging.py:38 - Step 02520: -7.4843 E_h, variance=0.0327 E_h^2, pmove=0.52
+1970-02-18 07:50:36,104 - myLogging.py:38 - Step 02530: -7.4647 E_h, variance=0.0362 E_h^2, pmove=0.51
+1970-02-18 07:50:36,464 - myLogging.py:38 - Step 02540: -7.4640 E_h, variance=0.0378 E_h^2, pmove=0.50
+1970-02-18 07:50:36,825 - myLogging.py:38 - Step 02550: -7.4602 E_h, variance=0.0459 E_h^2, pmove=0.51
+1970-02-18 07:50:37,184 - myLogging.py:38 - Step 02560: -7.4634 E_h, variance=0.2733 E_h^2, pmove=0.52
+1970-02-18 07:50:37,562 - myLogging.py:38 - Step 02570: -7.4786 E_h, variance=0.0356 E_h^2, pmove=0.52
+1970-02-18 07:50:37,932 - myLogging.py:38 - Step 02580: -7.4664 E_h, variance=0.0381 E_h^2, pmove=0.51
+1970-02-18 07:50:38,293 - myLogging.py:38 - Step 02590: -7.4788 E_h, variance=0.0365 E_h^2, pmove=0.50
+1970-02-18 07:50:38,665 - myLogging.py:38 - Step 02600: -7.4946 E_h, variance=0.0780 E_h^2, pmove=0.54
+1970-02-18 07:50:39,009 - myLogging.py:38 - Step 02610: -7.4791 E_h, variance=0.0740 E_h^2, pmove=0.51
+1970-02-18 07:50:39,398 - myLogging.py:38 - Step 02620: -7.4743 E_h, variance=0.0274 E_h^2, pmove=0.54
+1970-02-18 07:50:39,751 - myLogging.py:38 - Step 02630: -7.4928 E_h, variance=0.0374 E_h^2, pmove=0.51
+1970-02-18 07:50:40,137 - myLogging.py:38 - Step 02640: -7.4692 E_h, variance=0.0185 E_h^2, pmove=0.52
+1970-02-18 07:50:40,467 - myLogging.py:38 - Step 02650: -7.4741 E_h, variance=0.0303 E_h^2, pmove=0.52
+1970-02-18 07:50:40,796 - myLogging.py:38 - Step 02660: -7.4745 E_h, variance=0.0356 E_h^2, pmove=0.52
+1970-02-18 07:50:41,127 - myLogging.py:38 - Step 02670: -7.5155 E_h, variance=0.1564 E_h^2, pmove=0.51
+1970-02-18 07:50:41,456 - myLogging.py:38 - Step 02680: -7.4712 E_h, variance=0.0290 E_h^2, pmove=0.53
+1970-02-18 07:50:41,786 - myLogging.py:38 - Step 02690: -7.4829 E_h, variance=0.0250 E_h^2, pmove=0.54
+1970-02-18 07:50:42,115 - myLogging.py:38 - Step 02700: -7.4772 E_h, variance=0.0578 E_h^2, pmove=0.52
+1970-02-18 07:50:42,445 - myLogging.py:38 - Step 02710: -7.4943 E_h, variance=0.0589 E_h^2, pmove=0.52
+1970-02-18 07:50:42,775 - myLogging.py:38 - Step 02720: -7.4710 E_h, variance=0.0190 E_h^2, pmove=0.53
+1970-02-18 07:50:43,108 - myLogging.py:38 - Step 02730: -7.4728 E_h, variance=0.0233 E_h^2, pmove=0.53
+1970-02-18 07:50:43,438 - myLogging.py:38 - Step 02740: -7.4685 E_h, variance=0.0377 E_h^2, pmove=0.50
+1970-02-18 07:50:43,767 - myLogging.py:38 - Step 02750: -7.5372 E_h, variance=0.6416 E_h^2, pmove=0.50
+1970-02-18 07:50:44,097 - myLogging.py:38 - Step 02760: -7.4611 E_h, variance=0.0896 E_h^2, pmove=0.53
+1970-02-18 07:50:44,425 - myLogging.py:38 - Step 02770: -7.4975 E_h, variance=0.0676 E_h^2, pmove=0.51
+1970-02-18 07:50:44,754 - myLogging.py:38 - Step 02780: -7.4836 E_h, variance=0.0354 E_h^2, pmove=0.52
+1970-02-18 07:50:45,083 - myLogging.py:38 - Step 02790: -7.4621 E_h, variance=0.0290 E_h^2, pmove=0.52
+1970-02-18 07:50:45,412 - myLogging.py:38 - Step 02800: -7.4533 E_h, variance=0.0938 E_h^2, pmove=0.51
+1970-02-18 07:50:45,741 - myLogging.py:38 - Step 02810: -7.4604 E_h, variance=0.0247 E_h^2, pmove=0.52
+1970-02-18 07:50:46,075 - myLogging.py:38 - Step 02820: -7.4768 E_h, variance=0.0294 E_h^2, pmove=0.50
+1970-02-18 07:50:46,404 - myLogging.py:38 - Step 02830: -7.4850 E_h, variance=0.0248 E_h^2, pmove=0.54
+1970-02-18 07:50:46,755 - myLogging.py:38 - Step 02840: -7.4752 E_h, variance=0.0388 E_h^2, pmove=0.52
+1970-02-18 07:50:47,133 - myLogging.py:38 - Step 02850: -7.4585 E_h, variance=0.0551 E_h^2, pmove=0.55
+1970-02-18 07:50:47,497 - myLogging.py:38 - Step 02860: -7.4802 E_h, variance=0.0198 E_h^2, pmove=0.53
+1970-02-18 07:50:47,858 - myLogging.py:38 - Step 02870: -7.4699 E_h, variance=0.0166 E_h^2, pmove=0.51
+1970-02-18 07:50:48,216 - myLogging.py:38 - Step 02880: -7.4808 E_h, variance=0.0402 E_h^2, pmove=0.48
+1970-02-18 07:50:48,576 - myLogging.py:38 - Step 02890: -7.4701 E_h, variance=0.0280 E_h^2, pmove=0.50
+1970-02-18 07:50:48,936 - myLogging.py:38 - Step 02900: -7.4729 E_h, variance=0.0444 E_h^2, pmove=0.53
+1970-02-18 07:50:49,296 - myLogging.py:38 - Step 02910: -7.4817 E_h, variance=0.0380 E_h^2, pmove=0.53
+1970-02-18 07:50:49,656 - myLogging.py:38 - Step 02920: -7.4722 E_h, variance=0.0149 E_h^2, pmove=0.52
+1970-02-18 07:50:50,016 - myLogging.py:38 - Step 02930: -7.4771 E_h, variance=0.0206 E_h^2, pmove=0.52
+1970-02-18 07:50:50,381 - myLogging.py:38 - Step 02940: -7.4844 E_h, variance=0.0226 E_h^2, pmove=0.52
+1970-02-18 07:50:50,742 - myLogging.py:38 - Step 02950: -7.4657 E_h, variance=0.0247 E_h^2, pmove=0.52
+1970-02-18 07:50:51,103 - myLogging.py:38 - Step 02960: -7.4888 E_h, variance=0.0863 E_h^2, pmove=0.52
+1970-02-18 07:50:51,464 - myLogging.py:38 - Step 02970: -7.4889 E_h, variance=0.0505 E_h^2, pmove=0.53
+1970-02-18 07:50:51,823 - myLogging.py:38 - Step 02980: -7.4608 E_h, variance=0.0342 E_h^2, pmove=0.50
+1970-02-18 07:50:52,185 - myLogging.py:38 - Step 02990: -7.4827 E_h, variance=0.0281 E_h^2, pmove=0.53
+1970-02-18 07:50:52,549 - myLogging.py:38 - Step 03000: -7.4590 E_h, variance=0.1497 E_h^2, pmove=0.50
+1970-02-18 07:50:52,908 - myLogging.py:38 - Step 03010: -7.4843 E_h, variance=0.0723 E_h^2, pmove=0.52
+1970-02-18 07:50:53,272 - myLogging.py:38 - Step 03020: -7.4808 E_h, variance=0.0316 E_h^2, pmove=0.52
+1970-02-18 07:50:53,634 - myLogging.py:38 - Step 03030: -7.4528 E_h, variance=0.0564 E_h^2, pmove=0.52
+1970-02-18 07:50:54,000 - myLogging.py:38 - Step 03040: -7.4728 E_h, variance=0.0280 E_h^2, pmove=0.54
+1970-02-18 07:50:54,369 - myLogging.py:38 - Step 03050: -7.4442 E_h, variance=0.0386 E_h^2, pmove=0.51
+1970-02-18 07:50:54,728 - myLogging.py:38 - Step 03060: -7.4576 E_h, variance=0.0423 E_h^2, pmove=0.52
+1970-02-18 07:50:55,113 - myLogging.py:38 - Step 03070: -7.4696 E_h, variance=0.0240 E_h^2, pmove=0.50
+1970-02-18 07:50:55,473 - myLogging.py:38 - Step 03080: -7.4475 E_h, variance=0.0536 E_h^2, pmove=0.53
+1970-02-18 07:50:55,833 - myLogging.py:38 - Step 03090: -7.4821 E_h, variance=0.0553 E_h^2, pmove=0.52
+1970-02-18 07:50:56,194 - myLogging.py:38 - Step 03100: -7.4516 E_h, variance=0.2439 E_h^2, pmove=0.50
+1970-02-18 07:50:56,557 - myLogging.py:38 - Step 03110: -7.4784 E_h, variance=0.0168 E_h^2, pmove=0.50
+1970-02-18 07:50:56,928 - myLogging.py:38 - Step 03120: -7.4664 E_h, variance=0.0148 E_h^2, pmove=0.51
+1970-02-18 07:50:57,284 - myLogging.py:38 - Step 03130: -7.4692 E_h, variance=0.0187 E_h^2, pmove=0.52
+1970-02-18 07:50:57,646 - myLogging.py:38 - Step 03140: -7.4784 E_h, variance=0.0339 E_h^2, pmove=0.52
+1970-02-18 07:50:58,008 - myLogging.py:38 - Step 03150: -7.4541 E_h, variance=0.0475 E_h^2, pmove=0.51
+1970-02-18 07:50:58,364 - myLogging.py:38 - Step 03160: -7.4672 E_h, variance=0.0228 E_h^2, pmove=0.52
+1970-02-18 07:50:58,721 - myLogging.py:38 - Step 03170: -7.4650 E_h, variance=0.0260 E_h^2, pmove=0.53
+1970-02-18 07:50:59,076 - myLogging.py:38 - Step 03180: -7.4418 E_h, variance=0.1307 E_h^2, pmove=0.52
+1970-02-18 07:50:59,436 - myLogging.py:38 - Step 03190: -7.4765 E_h, variance=0.0807 E_h^2, pmove=0.51
+1970-02-18 07:50:59,797 - myLogging.py:38 - Step 03200: -7.4631 E_h, variance=0.0289 E_h^2, pmove=0.52
+1970-02-18 07:51:00,161 - myLogging.py:38 - Step 03210: -7.4686 E_h, variance=0.0380 E_h^2, pmove=0.50
+1970-02-18 07:51:00,524 - myLogging.py:38 - Step 03220: -7.4966 E_h, variance=0.0514 E_h^2, pmove=0.51
+1970-02-18 07:51:00,880 - myLogging.py:38 - Step 03230: -7.4759 E_h, variance=0.0189 E_h^2, pmove=0.51
+1970-02-18 07:51:01,243 - myLogging.py:38 - Step 03240: -7.4626 E_h, variance=0.0269 E_h^2, pmove=0.50
+1970-02-18 07:51:01,604 - myLogging.py:38 - Step 03250: -7.4760 E_h, variance=0.0226 E_h^2, pmove=0.55
+1970-02-18 07:51:01,964 - myLogging.py:38 - Step 03260: -7.4672 E_h, variance=0.0213 E_h^2, pmove=0.51
+1970-02-18 07:51:02,332 - myLogging.py:38 - Step 03270: -7.4623 E_h, variance=0.0238 E_h^2, pmove=0.51
+1970-02-18 07:51:02,685 - myLogging.py:38 - Step 03280: -7.4561 E_h, variance=0.0262 E_h^2, pmove=0.53
+1970-02-18 07:51:03,056 - myLogging.py:38 - Step 03290: -7.4917 E_h, variance=0.0228 E_h^2, pmove=0.52
+1970-02-18 07:51:03,421 - myLogging.py:38 - Step 03300: -7.4603 E_h, variance=0.0195 E_h^2, pmove=0.52
+1970-02-18 07:51:03,789 - myLogging.py:38 - Step 03310: -7.4879 E_h, variance=0.0206 E_h^2, pmove=0.52
+1970-02-18 07:51:04,152 - myLogging.py:38 - Step 03320: -7.4664 E_h, variance=0.0172 E_h^2, pmove=0.54
+1970-02-18 07:51:04,516 - myLogging.py:38 - Step 03330: -7.4821 E_h, variance=0.0308 E_h^2, pmove=0.52
+1970-02-18 07:51:04,876 - myLogging.py:38 - Step 03340: -7.4739 E_h, variance=0.0251 E_h^2, pmove=0.52
+1970-02-18 07:51:05,237 - myLogging.py:38 - Step 03350: -7.4770 E_h, variance=0.0141 E_h^2, pmove=0.51
+1970-02-18 07:51:05,598 - myLogging.py:38 - Step 03360: -7.4801 E_h, variance=0.0228 E_h^2, pmove=0.51
+1970-02-18 07:51:05,965 - myLogging.py:38 - Step 03370: -7.4654 E_h, variance=0.0243 E_h^2, pmove=0.53
+1970-02-18 07:51:06,325 - myLogging.py:38 - Step 03380: -7.4758 E_h, variance=0.0279 E_h^2, pmove=0.52
+1970-02-18 07:51:06,684 - myLogging.py:38 - Step 03390: -7.4639 E_h, variance=0.0162 E_h^2, pmove=0.52
+1970-02-18 07:51:07,044 - myLogging.py:38 - Step 03400: -7.4846 E_h, variance=0.0316 E_h^2, pmove=0.54
+1970-02-18 07:51:07,404 - myLogging.py:38 - Step 03410: -7.4604 E_h, variance=0.0599 E_h^2, pmove=0.51
+1970-02-18 07:51:07,765 - myLogging.py:38 - Step 03420: -7.4812 E_h, variance=0.0333 E_h^2, pmove=0.50
+1970-02-18 07:51:08,124 - myLogging.py:38 - Step 03430: -7.4902 E_h, variance=0.0365 E_h^2, pmove=0.53
+1970-02-18 07:51:08,485 - myLogging.py:38 - Step 03440: -7.4538 E_h, variance=0.0601 E_h^2, pmove=0.52
+1970-02-18 07:51:08,844 - myLogging.py:38 - Step 03450: -7.4675 E_h, variance=0.0613 E_h^2, pmove=0.52
+1970-02-18 07:51:09,204 - myLogging.py:38 - Step 03460: -7.4945 E_h, variance=0.0564 E_h^2, pmove=0.53
+1970-02-18 07:51:09,566 - myLogging.py:38 - Step 03470: -7.4749 E_h, variance=0.0297 E_h^2, pmove=0.52
+1970-02-18 07:51:09,924 - myLogging.py:38 - Step 03480: -7.4795 E_h, variance=0.0331 E_h^2, pmove=0.52
+1970-02-18 07:51:10,283 - myLogging.py:38 - Step 03490: -7.4766 E_h, variance=0.0306 E_h^2, pmove=0.52
+1970-02-18 07:51:10,644 - myLogging.py:38 - Step 03500: -7.4703 E_h, variance=0.0323 E_h^2, pmove=0.50
+1970-02-18 07:51:11,004 - myLogging.py:38 - Step 03510: -7.4792 E_h, variance=0.0360 E_h^2, pmove=0.52
+1970-02-18 07:51:11,383 - myLogging.py:38 - Step 03520: -7.4827 E_h, variance=0.0493 E_h^2, pmove=0.51
+1970-02-18 07:51:11,759 - myLogging.py:38 - Step 03530: -7.4599 E_h, variance=0.0260 E_h^2, pmove=0.52
+1970-02-18 07:51:12,120 - myLogging.py:38 - Step 03540: -7.4752 E_h, variance=0.0333 E_h^2, pmove=0.51
+1970-02-18 07:51:12,480 - myLogging.py:38 - Step 03550: -7.4762 E_h, variance=0.0214 E_h^2, pmove=0.48
+1970-02-18 07:51:12,841 - myLogging.py:38 - Step 03560: -7.4886 E_h, variance=0.0275 E_h^2, pmove=0.52
+1970-02-18 07:51:13,217 - myLogging.py:38 - Step 03570: -7.4690 E_h, variance=0.0134 E_h^2, pmove=0.52
+1970-02-18 07:51:13,576 - myLogging.py:38 - Step 03580: -7.5081 E_h, variance=0.2518 E_h^2, pmove=0.52
+1970-02-18 07:51:13,938 - myLogging.py:38 - Step 03590: -7.4827 E_h, variance=0.0583 E_h^2, pmove=0.52
+1970-02-18 07:51:14,296 - myLogging.py:38 - Step 03600: -7.4692 E_h, variance=0.0268 E_h^2, pmove=0.51
+1970-02-18 07:51:14,656 - myLogging.py:38 - Step 03610: -7.4738 E_h, variance=0.0165 E_h^2, pmove=0.53
+1970-02-18 07:51:15,016 - myLogging.py:38 - Step 03620: -7.4688 E_h, variance=0.0169 E_h^2, pmove=0.51
+1970-02-18 07:51:15,375 - myLogging.py:38 - Step 03630: -7.4337 E_h, variance=0.1263 E_h^2, pmove=0.51
+1970-02-18 07:51:15,736 - myLogging.py:38 - Step 03640: -7.4765 E_h, variance=0.0279 E_h^2, pmove=0.52
+1970-02-18 07:51:16,097 - myLogging.py:38 - Step 03650: -7.4786 E_h, variance=0.0214 E_h^2, pmove=0.54
+1970-02-18 07:51:16,472 - myLogging.py:38 - Step 03660: -7.4886 E_h, variance=0.0216 E_h^2, pmove=0.52
+1970-02-18 07:51:16,847 - myLogging.py:38 - Step 03670: -7.4720 E_h, variance=0.0270 E_h^2, pmove=0.51
+1970-02-18 07:51:17,208 - myLogging.py:38 - Step 03680: -7.4797 E_h, variance=0.0304 E_h^2, pmove=0.51
+1970-02-18 07:51:17,568 - myLogging.py:38 - Step 03690: -7.4706 E_h, variance=0.0249 E_h^2, pmove=0.50
+1970-02-18 07:51:17,928 - myLogging.py:38 - Step 03700: -7.4786 E_h, variance=0.0267 E_h^2, pmove=0.53
+1970-02-18 07:51:18,295 - myLogging.py:38 - Step 03710: -7.4685 E_h, variance=0.0164 E_h^2, pmove=0.52
+1970-02-18 07:51:18,657 - myLogging.py:38 - Step 03720: -7.4774 E_h, variance=0.0169 E_h^2, pmove=0.51
+1970-02-18 07:51:19,016 - myLogging.py:38 - Step 03730: -7.4777 E_h, variance=0.0177 E_h^2, pmove=0.51
+1970-02-18 07:51:19,439 - myLogging.py:38 - Step 03740: -7.4842 E_h, variance=0.0234 E_h^2, pmove=0.52
+1970-02-18 07:51:19,812 - myLogging.py:38 - Step 03750: -7.4716 E_h, variance=0.0284 E_h^2, pmove=0.52
+1970-02-18 07:51:20,171 - myLogging.py:38 - Step 03760: -7.4800 E_h, variance=0.0133 E_h^2, pmove=0.53
+1970-02-18 07:51:20,535 - myLogging.py:38 - Step 03770: -7.4584 E_h, variance=0.0730 E_h^2, pmove=0.51
+1970-02-18 07:51:20,896 - myLogging.py:38 - Step 03780: -7.4786 E_h, variance=0.0189 E_h^2, pmove=0.51
+1970-02-18 07:51:21,256 - myLogging.py:38 - Step 03790: -7.4650 E_h, variance=0.0467 E_h^2, pmove=0.53
+1970-02-18 07:51:21,616 - myLogging.py:38 - Step 03800: -7.4631 E_h, variance=0.0789 E_h^2, pmove=0.51
+1970-02-18 07:51:21,982 - myLogging.py:38 - Step 03810: -7.4690 E_h, variance=0.0251 E_h^2, pmove=0.53
+1970-02-18 07:51:22,340 - myLogging.py:38 - Step 03820: -7.4661 E_h, variance=0.1080 E_h^2, pmove=0.51
+1970-02-18 07:51:22,704 - myLogging.py:38 - Step 03830: -7.4636 E_h, variance=0.0198 E_h^2, pmove=0.52
+1970-02-18 07:51:23,064 - myLogging.py:38 - Step 03840: -7.4828 E_h, variance=0.0165 E_h^2, pmove=0.52
+1970-02-18 07:51:23,424 - myLogging.py:38 - Step 03850: -7.4707 E_h, variance=0.0403 E_h^2, pmove=0.51
+1970-02-18 07:51:23,786 - myLogging.py:38 - Step 03860: -7.4918 E_h, variance=0.0497 E_h^2, pmove=0.54
+1970-02-18 07:51:24,147 - myLogging.py:38 - Step 03870: -7.4807 E_h, variance=0.0967 E_h^2, pmove=0.51
+1970-02-18 07:51:24,508 - myLogging.py:38 - Step 03880: -7.4868 E_h, variance=0.0220 E_h^2, pmove=0.51
+1970-02-18 07:51:24,868 - myLogging.py:38 - Step 03890: -7.4822 E_h, variance=0.0237 E_h^2, pmove=0.52
+1970-02-18 07:51:25,228 - myLogging.py:38 - Step 03900: -7.4868 E_h, variance=0.0208 E_h^2, pmove=0.54
+1970-02-18 07:51:25,588 - myLogging.py:38 - Step 03910: -7.4684 E_h, variance=0.0256 E_h^2, pmove=0.53
+1970-02-18 07:51:25,948 - myLogging.py:38 - Step 03920: -7.4659 E_h, variance=0.0404 E_h^2, pmove=0.51
+1970-02-18 07:51:26,307 - myLogging.py:38 - Step 03930: -7.4571 E_h, variance=0.0250 E_h^2, pmove=0.51
+1970-02-18 07:51:26,672 - myLogging.py:38 - Step 03940: -7.4795 E_h, variance=0.0332 E_h^2, pmove=0.52
+1970-02-18 07:51:27,033 - myLogging.py:38 - Step 03950: -7.4812 E_h, variance=0.0265 E_h^2, pmove=0.50
+1970-02-18 07:51:27,482 - myLogging.py:38 - Step 03960: -7.4714 E_h, variance=0.0199 E_h^2, pmove=0.52
+1970-02-18 07:51:27,930 - myLogging.py:38 - Step 03970: -7.4656 E_h, variance=0.0431 E_h^2, pmove=0.52
+1970-02-18 07:51:28,347 - myLogging.py:38 - Step 03980: -7.4562 E_h, variance=0.1467 E_h^2, pmove=0.51
+1970-02-18 07:51:28,785 - myLogging.py:38 - Step 03990: -7.4839 E_h, variance=0.0191 E_h^2, pmove=0.49
+1970-02-18 07:51:29,195 - myLogging.py:38 - Step 04000: -7.4794 E_h, variance=0.0222 E_h^2, pmove=0.51
+1970-02-18 07:51:29,557 - myLogging.py:38 - Step 04010: -7.4716 E_h, variance=0.0305 E_h^2, pmove=0.52
+1970-02-18 07:51:29,914 - myLogging.py:38 - Step 04020: -7.4843 E_h, variance=0.0206 E_h^2, pmove=0.52
+1970-02-18 07:51:30,276 - myLogging.py:38 - Step 04030: -7.4909 E_h, variance=0.0116 E_h^2, pmove=0.52
+1970-02-18 07:51:30,635 - myLogging.py:38 - Step 04040: -7.4788 E_h, variance=0.0166 E_h^2, pmove=0.51
+1970-02-18 07:51:30,996 - myLogging.py:38 - Step 04050: -7.4953 E_h, variance=0.0467 E_h^2, pmove=0.53
+1970-02-18 07:51:31,369 - myLogging.py:38 - Step 04060: -7.4777 E_h, variance=0.0226 E_h^2, pmove=0.53
+1970-02-18 07:51:31,736 - myLogging.py:38 - Step 04070: -7.4758 E_h, variance=0.0539 E_h^2, pmove=0.53
+1970-02-18 07:51:32,100 - myLogging.py:38 - Step 04080: -7.4808 E_h, variance=0.0211 E_h^2, pmove=0.54
+1970-02-18 07:51:32,460 - myLogging.py:38 - Step 04090: -7.4740 E_h, variance=0.0175 E_h^2, pmove=0.51
+1970-02-18 07:51:32,819 - myLogging.py:38 - Step 04100: -7.4677 E_h, variance=0.0222 E_h^2, pmove=0.52
+1970-02-18 07:51:33,180 - myLogging.py:38 - Step 04110: -7.4955 E_h, variance=0.0215 E_h^2, pmove=0.52
+1970-02-18 07:51:33,539 - myLogging.py:38 - Step 04120: -7.4960 E_h, variance=0.0300 E_h^2, pmove=0.51
+1970-02-18 07:51:33,900 - myLogging.py:38 - Step 04130: -7.4732 E_h, variance=0.0196 E_h^2, pmove=0.52
+1970-02-18 07:51:34,261 - myLogging.py:38 - Step 04140: -7.4781 E_h, variance=0.0260 E_h^2, pmove=0.51
+1970-02-18 07:51:34,621 - myLogging.py:38 - Step 04150: -7.4564 E_h, variance=0.0187 E_h^2, pmove=0.52
+1970-02-18 07:51:34,980 - myLogging.py:38 - Step 04160: -7.4640 E_h, variance=0.0272 E_h^2, pmove=0.50
+1970-02-18 07:51:35,340 - myLogging.py:38 - Step 04170: -7.4707 E_h, variance=0.0184 E_h^2, pmove=0.51
+1970-02-18 07:51:35,705 - myLogging.py:38 - Step 04180: -7.4388 E_h, variance=0.3824 E_h^2, pmove=0.51
+1970-02-18 07:51:36,034 - myLogging.py:38 - Step 04190: -7.4671 E_h, variance=0.0226 E_h^2, pmove=0.51
+1970-02-18 07:51:36,366 - myLogging.py:38 - Step 04200: -7.4635 E_h, variance=0.1254 E_h^2, pmove=0.51
+1970-02-18 07:51:36,797 - myLogging.py:38 - Step 04210: -7.4734 E_h, variance=0.0151 E_h^2, pmove=0.53
+1970-02-18 07:51:37,164 - myLogging.py:38 - Step 04220: -7.4761 E_h, variance=0.0214 E_h^2, pmove=0.51
+1970-02-18 07:51:37,519 - myLogging.py:38 - Step 04230: -7.4706 E_h, variance=0.0175 E_h^2, pmove=0.52
+1970-02-18 07:51:37,877 - myLogging.py:38 - Step 04240: -7.4628 E_h, variance=0.0283 E_h^2, pmove=0.52
+1970-02-18 07:51:38,237 - myLogging.py:38 - Step 04250: -7.4872 E_h, variance=0.0199 E_h^2, pmove=0.53
+1970-02-18 07:51:38,594 - myLogging.py:38 - Step 04260: -7.4801 E_h, variance=0.0172 E_h^2, pmove=0.49
+1970-02-18 07:51:39,011 - myLogging.py:38 - Step 04270: -7.4661 E_h, variance=0.0197 E_h^2, pmove=0.52
+1970-02-18 07:51:39,409 - myLogging.py:38 - Step 04280: -7.4614 E_h, variance=0.0195 E_h^2, pmove=0.55
+1970-02-18 07:51:39,766 - myLogging.py:38 - Step 04290: -7.4484 E_h, variance=0.0371 E_h^2, pmove=0.51
+1970-02-18 07:51:40,168 - myLogging.py:38 - Step 04300: -7.4655 E_h, variance=0.0146 E_h^2, pmove=0.52
+1970-02-18 07:51:40,586 - myLogging.py:38 - Step 04310: -7.4684 E_h, variance=0.0138 E_h^2, pmove=0.50
+1970-02-18 07:51:40,925 - myLogging.py:38 - Step 04320: -7.4861 E_h, variance=0.0176 E_h^2, pmove=0.52
+1970-02-18 07:51:41,257 - myLogging.py:38 - Step 04330: -7.4869 E_h, variance=0.0174 E_h^2, pmove=0.51
+1970-02-18 07:51:41,589 - myLogging.py:38 - Step 04340: -7.4851 E_h, variance=0.1273 E_h^2, pmove=0.51
+1970-02-18 07:51:42,042 - myLogging.py:38 - Step 04350: -7.4896 E_h, variance=0.0151 E_h^2, pmove=0.50
+1970-02-18 07:51:42,399 - myLogging.py:38 - Step 04360: -7.4810 E_h, variance=0.0126 E_h^2, pmove=0.51
+1970-02-18 07:51:42,834 - myLogging.py:38 - Step 04370: -7.4877 E_h, variance=0.0211 E_h^2, pmove=0.51
+1970-02-18 07:51:43,201 - myLogging.py:38 - Step 04380: -7.4752 E_h, variance=0.0151 E_h^2, pmove=0.53
+1970-02-18 07:51:43,569 - myLogging.py:38 - Step 04390: -7.4692 E_h, variance=0.0305 E_h^2, pmove=0.51
+1970-02-18 07:51:43,928 - myLogging.py:38 - Step 04400: -7.4819 E_h, variance=0.0264 E_h^2, pmove=0.52
+1970-02-18 07:51:44,285 - myLogging.py:38 - Step 04410: -7.4950 E_h, variance=0.0829 E_h^2, pmove=0.54
+1970-02-18 07:51:44,648 - myLogging.py:38 - Step 04420: -7.4804 E_h, variance=0.0194 E_h^2, pmove=0.52
+1970-02-18 07:51:45,015 - myLogging.py:38 - Step 04430: -7.4697 E_h, variance=0.0182 E_h^2, pmove=0.52
+1970-02-18 07:51:45,376 - myLogging.py:38 - Step 04440: -7.4797 E_h, variance=0.0277 E_h^2, pmove=0.52
+1970-02-18 07:51:45,735 - myLogging.py:38 - Step 04450: -7.4673 E_h, variance=0.0348 E_h^2, pmove=0.53
+1970-02-18 07:51:46,096 - myLogging.py:38 - Step 04460: -7.4840 E_h, variance=0.0182 E_h^2, pmove=0.50
+1970-02-18 07:51:46,457 - myLogging.py:38 - Step 04470: -7.4759 E_h, variance=0.0155 E_h^2, pmove=0.53
+1970-02-18 07:51:46,820 - myLogging.py:38 - Step 04480: -7.4721 E_h, variance=0.0156 E_h^2, pmove=0.52
+1970-02-18 07:51:47,188 - myLogging.py:38 - Step 04490: -7.4820 E_h, variance=0.0136 E_h^2, pmove=0.52
+1970-02-18 07:51:47,549 - myLogging.py:38 - Step 04500: -7.4651 E_h, variance=0.0331 E_h^2, pmove=0.53
+1970-02-18 07:51:47,919 - myLogging.py:38 - Step 04510: -7.4724 E_h, variance=0.0140 E_h^2, pmove=0.52
+1970-02-18 07:51:48,281 - myLogging.py:38 - Step 04520: -7.4786 E_h, variance=0.0531 E_h^2, pmove=0.53
+1970-02-18 07:51:48,644 - myLogging.py:38 - Step 04530: -7.4599 E_h, variance=0.0170 E_h^2, pmove=0.50
+1970-02-18 07:51:49,005 - myLogging.py:38 - Step 04540: -7.4768 E_h, variance=0.0161 E_h^2, pmove=0.51
+1970-02-18 07:51:49,364 - myLogging.py:38 - Step 04550: -7.4792 E_h, variance=0.0613 E_h^2, pmove=0.51
+1970-02-18 07:51:49,724 - myLogging.py:38 - Step 04560: -7.4702 E_h, variance=0.0136 E_h^2, pmove=0.51
+1970-02-18 07:51:50,084 - myLogging.py:38 - Step 04570: -7.4687 E_h, variance=0.0177 E_h^2, pmove=0.51
+1970-02-18 07:51:50,445 - myLogging.py:38 - Step 04580: -7.4732 E_h, variance=0.0331 E_h^2, pmove=0.52
+1970-02-18 07:51:50,803 - myLogging.py:38 - Step 04590: -7.4778 E_h, variance=0.0204 E_h^2, pmove=0.53
+1970-02-18 07:51:51,158 - myLogging.py:38 - Step 04600: -7.4780 E_h, variance=0.0242 E_h^2, pmove=0.51
+1970-02-18 07:51:51,540 - myLogging.py:38 - Step 04610: -7.4424 E_h, variance=0.1104 E_h^2, pmove=0.51
+1970-02-18 07:51:51,923 - myLogging.py:38 - Step 04620: -7.4760 E_h, variance=0.0402 E_h^2, pmove=0.50
+1970-02-18 07:51:52,312 - myLogging.py:38 - Step 04630: -7.4817 E_h, variance=0.0132 E_h^2, pmove=0.52
+1970-02-18 07:51:52,703 - myLogging.py:38 - Step 04640: -7.4674 E_h, variance=0.0356 E_h^2, pmove=0.50
+1970-02-18 07:51:53,075 - myLogging.py:38 - Step 04650: -7.4860 E_h, variance=0.0208 E_h^2, pmove=0.53
+1970-02-18 07:51:53,467 - myLogging.py:38 - Step 04660: -7.4720 E_h, variance=0.0312 E_h^2, pmove=0.51
+1970-02-18 07:51:53,808 - myLogging.py:38 - Step 04670: -7.4724 E_h, variance=0.0236 E_h^2, pmove=0.51
+1970-02-18 07:51:54,151 - myLogging.py:38 - Step 04680: -7.4701 E_h, variance=0.0230 E_h^2, pmove=0.51
+1970-02-18 07:51:54,506 - myLogging.py:38 - Step 04690: -7.4886 E_h, variance=0.0186 E_h^2, pmove=0.51
+1970-02-18 07:51:54,860 - myLogging.py:38 - Step 04700: -7.4678 E_h, variance=0.0211 E_h^2, pmove=0.53
+1970-02-18 07:51:55,221 - myLogging.py:38 - Step 04710: -7.4236 E_h, variance=1.0067 E_h^2, pmove=0.51
+1970-02-18 07:51:55,581 - myLogging.py:38 - Step 04720: -7.4849 E_h, variance=0.0131 E_h^2, pmove=0.53
+1970-02-18 07:51:55,940 - myLogging.py:38 - Step 04730: -7.4723 E_h, variance=0.0413 E_h^2, pmove=0.52
+1970-02-18 07:51:56,304 - myLogging.py:38 - Step 04740: -7.4772 E_h, variance=0.0544 E_h^2, pmove=0.52
+1970-02-18 07:51:56,666 - myLogging.py:38 - Step 04750: -7.4867 E_h, variance=0.0136 E_h^2, pmove=0.51
+1970-02-18 07:51:57,028 - myLogging.py:38 - Step 04760: -7.4667 E_h, variance=0.0347 E_h^2, pmove=0.51
+1970-02-18 07:51:57,388 - myLogging.py:38 - Step 04770: -7.4774 E_h, variance=0.0226 E_h^2, pmove=0.51
+1970-02-18 07:51:57,747 - myLogging.py:38 - Step 04780: -7.4742 E_h, variance=0.0194 E_h^2, pmove=0.51
+1970-02-18 07:51:58,108 - myLogging.py:38 - Step 04790: -7.4685 E_h, variance=0.0276 E_h^2, pmove=0.52
+1970-02-18 07:51:58,469 - myLogging.py:38 - Step 04800: -7.4510 E_h, variance=0.1618 E_h^2, pmove=0.51
+1970-02-18 07:51:58,828 - myLogging.py:38 - Step 04810: -7.4634 E_h, variance=0.0309 E_h^2, pmove=0.51
+1970-02-18 07:51:59,188 - myLogging.py:38 - Step 04820: -7.4787 E_h, variance=0.0130 E_h^2, pmove=0.51
+1970-02-18 07:51:59,552 - myLogging.py:38 - Step 04830: -7.4669 E_h, variance=0.0100 E_h^2, pmove=0.52
+1970-02-18 07:51:59,963 - myLogging.py:38 - Step 04840: -7.4689 E_h, variance=0.0147 E_h^2, pmove=0.50
+1970-02-18 07:52:00,342 - myLogging.py:38 - Step 04850: -7.4665 E_h, variance=0.0474 E_h^2, pmove=0.51
+1970-02-18 07:52:00,709 - myLogging.py:38 - Step 04860: -7.4751 E_h, variance=0.0227 E_h^2, pmove=0.52
+1970-02-18 07:52:01,075 - myLogging.py:38 - Step 04870: -7.4810 E_h, variance=0.0138 E_h^2, pmove=0.55
+1970-02-18 07:52:01,446 - myLogging.py:38 - Step 04880: -7.4732 E_h, variance=0.1002 E_h^2, pmove=0.52
+1970-02-18 07:52:01,805 - myLogging.py:38 - Step 04890: -7.4638 E_h, variance=0.0151 E_h^2, pmove=0.51
+1970-02-18 07:52:02,165 - myLogging.py:38 - Step 04900: -7.4847 E_h, variance=0.0111 E_h^2, pmove=0.50
+1970-02-18 07:52:02,530 - myLogging.py:38 - Step 04910: -7.4811 E_h, variance=0.0152 E_h^2, pmove=0.52
+1970-02-18 07:52:02,926 - myLogging.py:38 - Step 04920: -7.4817 E_h, variance=0.0166 E_h^2, pmove=0.51
+1970-02-18 07:52:03,307 - myLogging.py:38 - Step 04930: -7.4822 E_h, variance=0.0170 E_h^2, pmove=0.49
+1970-02-18 07:52:03,687 - myLogging.py:38 - Step 04940: -7.4773 E_h, variance=0.0286 E_h^2, pmove=0.51
+1970-02-18 07:52:04,052 - myLogging.py:38 - Step 04950: -7.5205 E_h, variance=0.1734 E_h^2, pmove=0.52
+1970-02-18 07:52:04,418 - myLogging.py:38 - Step 04960: -7.4857 E_h, variance=0.0265 E_h^2, pmove=0.50
+1970-02-18 07:52:04,779 - myLogging.py:38 - Step 04970: -7.4701 E_h, variance=0.0213 E_h^2, pmove=0.54
+1970-02-18 07:52:05,140 - myLogging.py:38 - Step 04980: -7.4769 E_h, variance=0.0220 E_h^2, pmove=0.52
+1970-02-18 07:52:05,513 - myLogging.py:38 - Step 04990: -7.4630 E_h, variance=0.0250 E_h^2, pmove=0.52
+1970-02-18 07:52:05,876 - myLogging.py:38 - Step 05000: -7.4718 E_h, variance=0.0131 E_h^2, pmove=0.51
+1970-02-18 07:52:06,235 - myLogging.py:38 - Step 05010: -7.4746 E_h, variance=0.0119 E_h^2, pmove=0.53
+1970-02-18 07:52:06,597 - myLogging.py:38 - Step 05020: -7.4869 E_h, variance=0.0129 E_h^2, pmove=0.50
+1970-02-18 07:52:06,960 - myLogging.py:38 - Step 05030: -7.4897 E_h, variance=0.0219 E_h^2, pmove=0.51
+1970-02-18 07:52:07,315 - myLogging.py:38 - Step 05040: -7.4790 E_h, variance=0.0214 E_h^2, pmove=0.50

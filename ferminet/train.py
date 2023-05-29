@@ -288,7 +288,9 @@ def train(cfg: ml_collections.ConfigDict):
     seed = 23
   else:
     seed = int(1e6 * time.time())
+  seed = 23
   key = jax.random.PRNGKey(seed)
+  key, subkey = jax.random.split(key)
 
   # Create parameters, network, and vmaped/pmaped derivations
 
@@ -311,7 +313,6 @@ def train(cfg: ml_collections.ConfigDict):
       hf_solution=hf_solution,
       full_det=cfg.network.full_det,
       **cfg.network.detnet)
-  key, subkey = jax.random.split(key)
   params = network_init(subkey)
   params = kfac_utils.replicate_all_local_devices(params)
   # Often just need log|psi(x)|.
@@ -459,8 +460,7 @@ def train(cfg: ml_collections.ConfigDict):
       sharded_key, subkeys = kfac_utils.p_split(sharded_key)
       data, pmove = mcmc_step(params, data, subkeys, mcmc_width)
     logging.info('Completed burn-in MCMC steps')
-    logging.info('Initial energy: %03.4f E_h',
-                 constants.pmap(total_energy)(params, data)[0])
+    logging.info(f'Initial energy: {constants.pmap(total_energy)(params, data)[0]} E_h')
 
   time_of_last_ckpt = time.time()
 
@@ -472,7 +472,8 @@ def train(cfg: ml_collections.ConfigDict):
     logging.info('No optimizer provided. Assuming inference run.')
     logging.info('Setting initial iteration to 0.')
     t_init = 0
-
+    
+  cnt = 0
   with writers.Writer(
       name='train_stats',
       schema=train_schema,
@@ -533,6 +534,9 @@ def train(cfg: ml_collections.ConfigDict):
         logging.info(
             'Step %05d: %03.4f E_h, variance=%03.4f E_h^2, pmove=%0.2f', t,
             loss, variance, pmove)
+        cnt+=1
+        if cnt==10:break
+        
         writer.write(
             t,
             step=t,
